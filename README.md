@@ -1,4 +1,4 @@
-# 📊 Servicing Decision Science — Repeat-Contact Prediction & Customer Segmentation
+#  Servicing Decision Science — Repeat-Contact Prediction & Customer Segmentation
 
 **Portfolio project prepared for:** *Analyst – Data Science, Global Servicing
 Decision Science (GSDS), American Express*
@@ -11,7 +11,7 @@ Decision Science (GSDS), American Express*
 
 ---
 
-## 🎯 Why this project (mapped to the role's MINIMUM qualifications)
+##  Why this project (mapped to the role's MINIMUM qualifications)
 
 This project was built to demonstrate **only the must-have skills** from the
 job description. Preferred qualifications (Agentic AI / agentic frameworks,
@@ -30,7 +30,7 @@ semantic modeling, conversational AI) are **intentionally not used**.
 | **Analytical & conceptual thinking, structuring problems** | Problem framing in `outputs/findings_report.md`; statistical hypothesis tests (chi-square, Welch t-test) in EDA (`src/02_eda.py`) |
 | **Written communication, cross-functional clarity** | `README.md` + `outputs/findings_report.md` — structured like a real DS deliverable: problem → data → method → results → insights → limitations |
 
-## 📈 Results at a glance
+##  Results at a glance
 
 **Dataset:** 6,000 servicing interactions · 2,000 customers · 120 agents ·
 12 months · Phone / Chat / Email across Payments, Billing, Technical,
@@ -61,7 +61,7 @@ Account Management. Repeat-contact rate: **25.9%**.
 | 2 | 449 (26.8%) | Digital channels (20% phone), fast (12.0 min), high FCR (72%) — **digital-first** |
 | 3 | 324 (19.3%) | Very high contact frequency (8.0 interactions) — **high-frequency** |
 
-## 🗂️ Project structure
+##  Project structure
 
 ```
 amex_gsds_decision_science_project/
@@ -92,7 +92,7 @@ amex_gsds_decision_science_project/
     └── findings_report.md        ← the communication deliverable
 ```
 
-## ▶️ How to run
+##  How to run
 
 ```bash
 pip install -r requirements.txt
@@ -102,7 +102,7 @@ python run_all.py        # ~15 seconds, end to end
 Pipeline: generate data → build SQLite & run SQL → EDA → train models →
 clustering → findings report.
 
-## 💡 Key insights (from the findings report)
+##  Key insights (from the findings report)
 
 1. **First-contact resolution is the #1 lever** — repeat rate drops from
    **42.4%** (not resolved) to **18.2%** (resolved) (chi-square p ≈ 1e-87).
@@ -115,7 +115,7 @@ clustering → findings report.
 5. **Four customer segments** give operations a simple lens on where repeat
    work concentrates.
 
-## 📖 Data dictionary (interactions)
+##  Data dictionary (interactions)
 
 | Column | Meaning |
 |---|---|
@@ -129,7 +129,7 @@ clustering → findings report.
 | `prior_contacts_90d` | Customer's contacts in the trailing 90 days (**computed in SQL**) |
 | `repeat_contact_30d` | **Target** — customer contacted again within 30 days |
 
-## 🔁 Reproducibility & disclaimer
+##  Reproducibility & disclaimer
 
 - Fully reproducible: fixed seed (42); `python run_all.py` regenerates data,
   models, charts and the report from scratch.
