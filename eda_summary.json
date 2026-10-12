@@ -1,0 +1,19 @@
+{
+  "n_interactions": 6000,
+  "repeat_rate_overall": 0.2587,
+  "fcr_rate_overall": 0.6845,
+  "avg_handle_time_min": 14.68,
+  "avg_satisfaction": 3.57,
+  "repeat_rate_by_department": {
+    "Billing": 0.2849,
+    "Payments": 0.2849,
+    "Technical": 0.2343,
+    "Account Management": 0.2179
+  },
+  "repeat_rate_fcr_0": 0.4242,
+  "repeat_rate_fcr_1": 0.1824,
+  "chi2_fcr_vs_repeat_pvalue": 1.1762730919746301e-87,
+  "ttest_handle_time_fcr_pvalue": 4.6690895114392824e-23,
+  "handle_time_mean_fcr_0": 15.66,
+  "handle_time_mean_fcr_1": 14.23
+}

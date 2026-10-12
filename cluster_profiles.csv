@@ -1,0 +1,5 @@
+cluster,customers,share,tenure_months,n_products,total_interactions,avg_handle_time_min,fcr_rate,avg_severity,billing_payments_share,phone_share
+0,381,0.227,66.927,3.882,2.496,18.52,0.509,3.21,0.424,0.625
+1,524,0.312,50.479,3.302,2.586,14.466,0.769,1.917,0.537,0.806
+2,449,0.268,66.648,3.227,2.486,12.002,0.721,2.107,0.631,0.198
+3,324,0.193,63.117,3.79,7.957,14.51,0.691,2.312,0.567,0.547

@@ -1,0 +1,2001 @@
+customer_id,tenure_months,age,segment,n_products,card_tier,region
+1,68.0,64.0,Retail,2.0,Blue,South
+2,96.0,71.0,Retail,4.0,Gold,North
+3,62.0,49.0,Retail,6.0,Blue,North East
+4,110.0,74.0,Retail,3.0,Gold,Central
+5,77.0,31.0,Small Business,6.0,Blue,North East
+6,88.0,38.0,Retail,4.0,Gold,South
+7,94.0,72.0,Retail,6.0,Blue,South
+8,76.0,31.0,Retail,6.0,Gold,South
+9,7.0,57.0,Small Business,1.0,Blue,West
+10,52.0,33.0,Retail,5.0,Gold,South
+11,17.0,39.0,Retail,2.0,Blue,South
+12,62.0,47.0,Retail,5.0,Blue,North East
+13,18.0,41.0,Retail,5.0,Blue,East
+14,62.0,69.0,Retail,2.0,Platinum,Central
+15,42.0,74.0,Retail,1.0,Blue,South
+16,3.0,49.0,Retail,3.0,Gold,North East
+17,15.0,50.0,Retail,2.0,Blue,Central
+18,61.0,24.0,Retail,4.0,Gold,North East
+19,10.0,34.0,Small Business,1.0,Blue,West
+20,103.0,24.0,Retail,1.0,Blue,North East
+21,92.0,68.0,Small Business,3.0,Blue,East
+22,86.0,34.0,Small Business,5.0,Blue,East
+23,21.0,40.0,Small Business,2.0,Blue,North
+24,96.0,67.0,Small Business,2.0,Blue,South
+25,77.0,60.0,Retail,1.0,Gold,Central
+26,47.0,55.0,Retail,2.0,Platinum,South
+27,1.0,24.0,Retail,2.0,Blue,North
+28,64.0,52.0,Retail,2.0,Platinum,South
+29,96.0,52.0,Retail,3.0,Blue,East
+30,5.0,39.0,Retail,2.0,Blue,Central
+31,7.0,62.0,Retail,5.0,Blue,North
+32,46.0,72.0,Small Business,3.0,Blue,North
+33,62.0,35.0,Retail,5.0,Blue,Central
+34,57.0,39.0,Retail,4.0,Platinum,North
+35,52.0,39.0,Retail,4.0,Gold,East
+36,31.0,67.0,Retail,4.0,Gold,Central
+37,8.0,26.0,Small Business,6.0,Blue,West
+38,4.0,70.0,Retail,2.0,Blue,North
+39,12.0,63.0,Retail,6.0,Gold,Central
+40,83.0,48.0,Retail,2.0,Blue,North
+41,95.0,53.0,Retail,1.0,Blue,South
+42,53.0,70.0,Retail,5.0,Blue,North
+43,10.0,63.0,Small Business,6.0,Blue,West
+44,50.0,36.0,Retail,1.0,Gold,Central
+45,119.0,24.0,Retail,4.0,Blue,West
+46,30.0,57.0,Retail,4.0,Blue,North
+47,59.0,29.0,Retail,2.0,Platinum,East
+48,65.0,26.0,Small Business,4.0,Platinum,North
+49,40.0,75.0,Small Business,5.0,Blue,East
+50,53.0,47.0,Retail,4.0,Blue,South
+51,57.0,57.0,Retail,4.0,Gold,Central
+52,57.0,33.0,Retail,6.0,Blue,Central
+53,87.0,27.0,Retail,2.0,Blue,Central
+54,70.0,25.0,Retail,4.0,Blue,South
+55,7.0,41.0,Small Business,2.0,Blue,North
+56,1.0,22.0,Retail,6.0,Platinum,North
+57,50.0,44.0,Retail,2.0,Gold,North East
+58,109.0,39.0,Small Business,6.0,Platinum,North East
+59,5.0,50.0,Small Business,4.0,Gold,South
+60,9.0,53.0,Retail,2.0,Gold,North East
+61,82.0,38.0,Retail,5.0,Gold,West
+62,55.0,46.0,Retail,2.0,Gold,South
+63,28.0,26.0,Small Business,2.0,Blue,South
+64,25.0,38.0,Retail,3.0,Blue,South
+65,80.0,74.0,Retail,5.0,Gold,Central
+66,63.0,75.0,Retail,3.0,Blue,South
+67,77.0,48.0,Retail,4.0,Blue,South
+68,34.0,72.0,Retail,4.0,Blue,Central
+69,64.0,49.0,Small Business,2.0,Gold,South
+70,104.0,28.0,Retail,2.0,Blue,South
+71,38.0,68.0,Retail,2.0,Blue,Central
+72,48.0,44.0,Small Business,2.0,Blue,North East
+73,20.0,55.0,Retail,6.0,Blue,West
+74,77.0,57.0,Retail,3.0,Platinum,Central
+75,4.0,38.0,Retail,3.0,Blue,North East
+76,30.0,61.0,Retail,5.0,Blue,West
+77,86.0,49.0,Retail,5.0,Blue,Central
+78,3.0,41.0,Retail,5.0,Gold,North
+79,119.0,38.0,Retail,4.0,Gold,North
+80,49.0,62.0,Retail,6.0,Blue,North East
+81,48.0,35.0,Retail,6.0,Blue,North
+82,65.0,28.0,Small Business,2.0,Gold,Central
+83,77.0,69.0,Retail,1.0,Platinum,East
+84,56.0,39.0,Small Business,3.0,Blue,Central
+85,107.0,56.0,Retail,6.0,Blue,West
+86,116.0,60.0,Retail,6.0,Blue,North
+87,25.0,67.0,Retail,5.0,Blue,East
+88,85.0,55.0,Retail,5.0,Gold,Central
+89,37.0,60.0,Retail,2.0,Platinum,North East
+90,120.0,67.0,Retail,4.0,Platinum,Central
+91,31.0,72.0,Retail,2.0,Gold,North East
+92,36.0,24.0,Retail,4.0,Blue,North East
+93,86.0,62.0,Retail,2.0,Platinum,North East
+94,95.0,31.0,Retail,1.0,Blue,West
+95,16.0,70.0,Retail,6.0,Blue,East
+96,67.0,24.0,Retail,6.0,Gold,West
+97,42.0,35.0,Retail,5.0,Blue,Central
+98,74.0,32.0,Retail,4.0,Gold,East
+99,67.0,54.0,Retail,2.0,Platinum,Central
+100,119.0,22.0,Retail,4.0,Gold,Central
+101,113.0,22.0,Retail,5.0,Gold,South
+102,79.0,49.0,Retail,4.0,Blue,North East
+103,82.0,74.0,Small Business,2.0,Blue,North East
+104,108.0,50.0,Retail,3.0,Gold,West
+105,23.0,46.0,Small Business,6.0,Gold,South
+106,88.0,57.0,Retail,2.0,Platinum,South
+107,93.0,51.0,Retail,6.0,Blue,North East
+108,16.0,42.0,Retail,5.0,Blue,North
+109,106.0,53.0,Retail,6.0,Blue,East
+110,84.0,22.0,Retail,4.0,Gold,West
+111,42.0,35.0,Small Business,2.0,Gold,South
+112,59.0,58.0,Retail,1.0,Platinum,North East
+113,59.0,40.0,Retail,4.0,Blue,West
+114,111.0,24.0,Retail,3.0,Blue,North
+115,117.0,28.0,Retail,1.0,Blue,South
+116,97.0,68.0,Small Business,6.0,Blue,East
+117,79.0,39.0,Retail,6.0,Blue,South
+118,13.0,23.0,Retail,3.0,Gold,North East
+119,110.0,61.0,Small Business,5.0,Blue,East
+120,17.0,50.0,Small Business,3.0,Blue,West
+121,21.0,46.0,Retail,3.0,Gold,West
+122,9.0,70.0,Retail,4.0,Gold,South
+123,114.0,38.0,Small Business,3.0,Blue,West
+124,60.0,52.0,Retail,5.0,Blue,East
+125,29.0,62.0,Retail,2.0,Gold,North
+126,10.0,54.0,Retail,5.0,Gold,East
+127,50.0,33.0,Small Business,6.0,Gold,West
+128,87.0,58.0,Small Business,6.0,Blue,North
+129,120.0,62.0,Retail,1.0,Gold,Central
+130,67.0,28.0,Retail,1.0,Platinum,West
+131,73.0,30.0,Retail,4.0,Blue,South
+132,101.0,58.0,Retail,6.0,Blue,West
+133,109.0,28.0,Small Business,6.0,Platinum,South
+134,34.0,69.0,Retail,6.0,Blue,West
+135,120.0,27.0,Retail,1.0,Gold,North
+136,63.0,74.0,Small Business,4.0,Platinum,West
+137,112.0,58.0,Retail,5.0,Blue,North
+138,15.0,45.0,Small Business,4.0,Gold,North
+139,12.0,36.0,Retail,5.0,Blue,South
+140,107.0,40.0,Small Business,2.0,Platinum,South
+141,81.0,62.0,Retail,3.0,Platinum,East
+142,22.0,62.0,Retail,3.0,Platinum,North
+143,108.0,33.0,Retail,6.0,Blue,South
+144,13.0,51.0,Retail,2.0,Gold,North
+145,82.0,75.0,Retail,2.0,Platinum,North East
+146,25.0,35.0,Retail,1.0,Gold,Central
+147,9.0,59.0,Retail,1.0,Gold,South
+148,97.0,31.0,Small Business,6.0,Blue,North
+149,102.0,67.0,Retail,6.0,Platinum,North East
+150,13.0,31.0,Retail,2.0,Blue,Central
+151,12.0,38.0,Small Business,5.0,Blue,North East
+152,74.0,46.0,Retail,4.0,Platinum,South
+153,4.0,42.0,Small Business,6.0,Platinum,East
+154,90.0,31.0,Retail,2.0,Platinum,North
+155,110.0,56.0,Retail,6.0,Blue,East
+156,91.0,23.0,Retail,3.0,Blue,North
+157,28.0,75.0,Small Business,5.0,Blue,North
+158,23.0,24.0,Retail,3.0,Blue,West
+159,82.0,40.0,Retail,5.0,Platinum,North East
+160,8.0,72.0,Small Business,3.0,Gold,West
+161,65.0,30.0,Retail,6.0,Blue,Central
+162,54.0,25.0,Small Business,4.0,Blue,Central
+163,90.0,62.0,Small Business,2.0,Blue,North East
+164,25.0,25.0,Small Business,6.0,Platinum,North
+165,92.0,70.0,Small Business,5.0,Gold,South
+166,84.0,46.0,Small Business,3.0,Blue,West
+167,29.0,68.0,Retail,1.0,Blue,Central
+168,43.0,35.0,Small Business,6.0,Blue,Central
+169,8.0,29.0,Small Business,5.0,Blue,Central
+170,54.0,73.0,Retail,5.0,Platinum,South
+171,32.0,63.0,Retail,5.0,Gold,East
+172,14.0,71.0,Small Business,4.0,Blue,North
+173,68.0,39.0,Retail,2.0,Gold,South
+174,69.0,43.0,Retail,2.0,Blue,North
+175,11.0,53.0,Retail,1.0,Blue,North East
+176,23.0,46.0,Retail,1.0,Gold,North
+177,10.0,35.0,Small Business,5.0,Blue,East
+178,82.0,42.0,Retail,6.0,Blue,North East
+179,41.0,54.0,Retail,1.0,Gold,North East
+180,9.0,24.0,Small Business,4.0,Platinum,East
+181,23.0,40.0,Retail,1.0,Blue,East
+182,118.0,37.0,Small Business,3.0,Gold,West
+183,31.0,25.0,Retail,5.0,Blue,Central
+184,83.0,28.0,Small Business,5.0,Gold,Central
+185,57.0,48.0,Small Business,6.0,Blue,West
+186,22.0,27.0,Retail,2.0,Gold,East
+187,37.0,40.0,Retail,6.0,Blue,East
+188,2.0,52.0,Retail,5.0,Platinum,West
+189,90.0,69.0,Retail,3.0,Platinum,North East
+190,41.0,27.0,Small Business,2.0,Blue,North
+191,60.0,45.0,Retail,1.0,Gold,Central
+192,19.0,27.0,Retail,6.0,Blue,East
+193,99.0,45.0,Retail,2.0,Gold,North
+194,27.0,47.0,Retail,2.0,Blue,North
+195,68.0,65.0,Small Business,3.0,Blue,East
+196,105.0,45.0,Retail,1.0,Gold,South
+197,86.0,72.0,Retail,5.0,Blue,North
+198,73.0,29.0,Retail,5.0,Gold,South
+199,107.0,24.0,Small Business,1.0,Gold,North East
+200,22.0,22.0,Retail,1.0,Blue,Central
+201,116.0,41.0,Retail,1.0,Blue,South
+202,67.0,32.0,Retail,6.0,Gold,Central
+203,50.0,26.0,Retail,3.0,Gold,East
+204,31.0,34.0,Small Business,4.0,Blue,Central
+205,90.0,74.0,Retail,1.0,Blue,South
+206,118.0,65.0,Retail,2.0,Gold,North
+207,83.0,23.0,Small Business,4.0,Gold,South
+208,4.0,71.0,Retail,2.0,Gold,North East
+209,57.0,33.0,Retail,4.0,Blue,West
+210,88.0,43.0,Retail,6.0,Gold,North
+211,48.0,39.0,Retail,2.0,Gold,North East
+212,93.0,43.0,Small Business,4.0,Blue,Central
+213,85.0,63.0,Small Business,6.0,Blue,West
+214,9.0,60.0,Small Business,6.0,Blue,Central
+215,67.0,54.0,Small Business,1.0,Gold,South
+216,21.0,55.0,Retail,1.0,Blue,West
+217,59.0,61.0,Retail,6.0,Gold,North East
+218,47.0,31.0,Retail,6.0,Gold,East
+219,97.0,43.0,Small Business,2.0,Blue,North
+220,105.0,27.0,Small Business,4.0,Gold,Central
+221,56.0,60.0,Retail,4.0,Gold,Central
+222,65.0,45.0,Retail,5.0,Blue,Central
+223,76.0,56.0,Small Business,5.0,Gold,West
+224,79.0,52.0,Small Business,3.0,Gold,North
+225,77.0,36.0,Small Business,6.0,Blue,North
+226,94.0,29.0,Retail,1.0,Gold,Central
+227,118.0,74.0,Retail,1.0,Gold,North East
+228,100.0,37.0,Retail,6.0,Blue,North
+229,17.0,27.0,Retail,2.0,Platinum,West
+230,58.0,38.0,Small Business,6.0,Gold,West
+231,56.0,70.0,Retail,2.0,Gold,East
+232,62.0,36.0,Retail,3.0,Blue,West
+233,64.0,75.0,Retail,1.0,Blue,North East
+234,87.0,46.0,Retail,6.0,Blue,Central
+235,51.0,68.0,Retail,3.0,Gold,North
+236,32.0,57.0,Retail,2.0,Gold,East
+237,55.0,24.0,Small Business,3.0,Gold,North East
+238,103.0,49.0,Retail,1.0,Blue,South
+239,38.0,44.0,Retail,5.0,Gold,North East
+240,3.0,32.0,Retail,1.0,Gold,East
+241,118.0,51.0,Retail,3.0,Gold,West
+242,24.0,27.0,Small Business,3.0,Gold,South
+243,73.0,59.0,Small Business,1.0,Platinum,North East
+244,97.0,66.0,Retail,1.0,Blue,West
+245,33.0,26.0,Small Business,4.0,Gold,West
+246,41.0,47.0,Small Business,3.0,Platinum,East
+247,34.0,57.0,Retail,1.0,Gold,North
+248,18.0,25.0,Retail,1.0,Blue,Central
+249,19.0,43.0,Retail,5.0,Platinum,South
+250,23.0,35.0,Small Business,5.0,Blue,South
+251,55.0,24.0,Retail,4.0,Blue,Central
+252,64.0,65.0,Retail,6.0,Blue,South
+253,2.0,46.0,Small Business,1.0,Blue,Central
+254,102.0,62.0,Small Business,5.0,Blue,East
+255,82.0,53.0,Retail,5.0,Blue,Central
+256,9.0,69.0,Small Business,2.0,Platinum,North
+257,102.0,75.0,Retail,4.0,Blue,Central
+258,4.0,54.0,Small Business,5.0,Gold,South
+259,68.0,41.0,Retail,4.0,Platinum,North East
+260,56.0,44.0,Retail,2.0,Gold,East
+261,61.0,66.0,Small Business,4.0,Blue,North
+262,115.0,45.0,Retail,5.0,Blue,East
+263,112.0,50.0,Retail,1.0,Gold,North
+264,34.0,32.0,Retail,4.0,Gold,South
+265,70.0,75.0,Retail,4.0,Gold,Central
+266,116.0,57.0,Retail,3.0,Blue,West
+267,88.0,39.0,Retail,1.0,Gold,Central
+268,107.0,53.0,Small Business,1.0,Gold,North East
+269,53.0,43.0,Small Business,5.0,Gold,East
+270,34.0,30.0,Retail,5.0,Platinum,West
+271,62.0,69.0,Retail,3.0,Gold,North
+272,99.0,69.0,Small Business,6.0,Gold,South
+273,112.0,67.0,Retail,6.0,Gold,Central
+274,83.0,41.0,Retail,4.0,Gold,North
+275,85.0,35.0,Retail,4.0,Gold,East
+276,62.0,24.0,Retail,6.0,Blue,North
+277,39.0,61.0,Retail,4.0,Gold,North East
+278,51.0,39.0,Small Business,6.0,Gold,West
+279,60.0,70.0,Small Business,6.0,Blue,West
+280,98.0,68.0,Retail,2.0,Blue,Central
+281,67.0,28.0,Retail,4.0,Gold,South
+282,96.0,71.0,Retail,5.0,Gold,North
+283,4.0,29.0,Retail,5.0,Blue,East
+284,91.0,48.0,Small Business,3.0,Blue,South
+285,61.0,47.0,Retail,6.0,Blue,South
+286,120.0,73.0,Small Business,3.0,Platinum,South
+287,57.0,57.0,Retail,3.0,Platinum,Central
+288,58.0,69.0,Retail,1.0,Gold,South
+289,16.0,54.0,Retail,2.0,Blue,North
+290,97.0,66.0,Retail,6.0,Gold,North East
+291,85.0,68.0,Small Business,5.0,Gold,North
+292,104.0,68.0,Retail,5.0,Platinum,South
+293,12.0,44.0,Retail,6.0,Blue,East
+294,26.0,42.0,Retail,2.0,Blue,North
+295,106.0,75.0,Retail,4.0,Gold,North East
+296,6.0,62.0,Small Business,3.0,Blue,East
+297,61.0,71.0,Retail,6.0,Gold,Central
+298,49.0,53.0,Retail,3.0,Gold,North
+299,113.0,72.0,Retail,6.0,Blue,West
+300,103.0,60.0,Retail,5.0,Blue,North
+301,108.0,62.0,Retail,5.0,Gold,South
+302,35.0,31.0,Retail,6.0,Gold,East
+303,71.0,52.0,Retail,5.0,Blue,North East
+304,85.0,61.0,Retail,2.0,Blue,South
+305,117.0,63.0,Retail,4.0,Gold,Central
+306,1.0,73.0,Small Business,3.0,Blue,North
+307,118.0,39.0,Retail,1.0,Gold,South
+308,43.0,38.0,Retail,4.0,Gold,West
+309,16.0,74.0,Retail,3.0,Blue,East
+310,74.0,75.0,Retail,3.0,Gold,West
+311,94.0,31.0,Small Business,1.0,Gold,Central
+312,16.0,42.0,Retail,4.0,Blue,North
+313,5.0,73.0,Retail,4.0,Gold,Central
+314,108.0,32.0,Small Business,1.0,Platinum,North East
+315,113.0,64.0,Small Business,4.0,Gold,Central
+316,19.0,28.0,Small Business,2.0,Blue,South
+317,109.0,31.0,Retail,1.0,Gold,East
+318,110.0,64.0,Retail,3.0,Blue,North East
+319,120.0,54.0,Retail,3.0,Gold,Central
+320,26.0,51.0,Retail,6.0,Gold,North East
+321,70.0,68.0,Retail,1.0,Blue,North East
+322,120.0,38.0,Small Business,3.0,Blue,East
+323,109.0,49.0,Retail,5.0,Platinum,North
+324,73.0,54.0,Retail,2.0,Blue,South
+325,24.0,61.0,Retail,6.0,Gold,South
+326,11.0,39.0,Retail,5.0,Gold,North East
+327,32.0,56.0,Retail,6.0,Gold,South
+328,8.0,46.0,Small Business,6.0,Blue,East
+329,24.0,51.0,Retail,1.0,Blue,North East
+330,9.0,68.0,Small Business,3.0,Blue,North
+331,92.0,43.0,Retail,5.0,Gold,West
+332,71.0,58.0,Small Business,1.0,Platinum,West
+333,63.0,72.0,Retail,3.0,Platinum,North East
+334,98.0,63.0,Small Business,5.0,Blue,East
+335,50.0,75.0,Small Business,5.0,Blue,West
+336,49.0,53.0,Retail,3.0,Blue,North East
+337,25.0,37.0,Retail,6.0,Platinum,North East
+338,54.0,75.0,Small Business,5.0,Blue,Central
+339,21.0,56.0,Retail,1.0,Blue,Central
+340,71.0,35.0,Small Business,2.0,Gold,North East
+341,120.0,39.0,Small Business,6.0,Gold,North East
+342,64.0,36.0,Small Business,1.0,Blue,Central
+343,36.0,67.0,Retail,1.0,Gold,South
+344,83.0,26.0,Retail,3.0,Blue,West
+345,99.0,61.0,Small Business,6.0,Blue,South
+346,57.0,51.0,Retail,5.0,Blue,West
+347,31.0,25.0,Retail,1.0,Blue,East
+348,86.0,55.0,Retail,3.0,Platinum,North East
+349,23.0,62.0,Small Business,6.0,Gold,West
+350,120.0,61.0,Retail,2.0,Gold,North East
+351,39.0,50.0,Retail,4.0,Blue,Central
+352,43.0,40.0,Retail,3.0,Gold,North East
+353,88.0,30.0,Small Business,5.0,Platinum,South
+354,2.0,22.0,Retail,5.0,Blue,Central
+355,25.0,41.0,Small Business,5.0,Platinum,South
+356,16.0,56.0,Small Business,1.0,Gold,West
+357,47.0,24.0,Small Business,3.0,Gold,East
+358,67.0,75.0,Small Business,5.0,Blue,South
+359,22.0,53.0,Retail,3.0,Gold,North East
+360,42.0,37.0,Retail,5.0,Gold,North East
+361,93.0,73.0,Retail,4.0,Platinum,West
+362,113.0,31.0,Small Business,3.0,Platinum,North
+363,2.0,73.0,Retail,1.0,Blue,South
+364,76.0,37.0,Retail,6.0,Platinum,South
+365,4.0,42.0,Small Business,5.0,Platinum,North East
+366,63.0,44.0,Retail,6.0,Gold,East
+367,106.0,75.0,Small Business,2.0,Blue,North
+368,96.0,35.0,Retail,2.0,Blue,West
+369,28.0,74.0,Retail,2.0,Blue,North East
+370,32.0,40.0,Retail,1.0,Blue,West
+371,95.0,37.0,Retail,2.0,Platinum,East
+372,99.0,56.0,Retail,2.0,Blue,South
+373,34.0,59.0,Small Business,6.0,Gold,North East
+374,1.0,40.0,Retail,2.0,Gold,North
+375,54.0,29.0,Retail,4.0,Gold,North East
+376,75.0,43.0,Small Business,4.0,Blue,South
+377,54.0,51.0,Small Business,3.0,Gold,North
+378,113.0,24.0,Retail,6.0,Gold,East
+379,98.0,26.0,Small Business,1.0,Gold,North
+380,95.0,71.0,Retail,6.0,Blue,North
+381,3.0,23.0,Retail,5.0,Gold,South
+382,103.0,43.0,Retail,2.0,Blue,Central
+383,91.0,63.0,Small Business,5.0,Gold,Central
+384,48.0,39.0,Retail,3.0,Blue,South
+385,71.0,48.0,Retail,6.0,Blue,West
+386,99.0,26.0,Small Business,1.0,Gold,East
+387,109.0,64.0,Retail,1.0,Blue,East
+388,67.0,56.0,Retail,4.0,Platinum,East
+389,5.0,67.0,Small Business,6.0,Platinum,North East
+390,75.0,68.0,Retail,1.0,Blue,West
+391,82.0,40.0,Retail,5.0,Blue,West
+392,8.0,24.0,Retail,6.0,Blue,North East
+393,99.0,40.0,Small Business,3.0,Platinum,West
+394,25.0,29.0,Retail,6.0,Gold,North
+395,107.0,50.0,Retail,5.0,Blue,South
+396,67.0,29.0,Retail,2.0,Gold,East
+397,39.0,71.0,Retail,6.0,Blue,North
+398,8.0,54.0,Small Business,5.0,Gold,Central
+399,3.0,35.0,Retail,1.0,Gold,East
+400,89.0,71.0,Retail,4.0,Blue,North
+401,46.0,63.0,Retail,4.0,Gold,East
+402,101.0,45.0,Retail,5.0,Blue,Central
+403,28.0,29.0,Retail,5.0,Gold,North East
+404,111.0,40.0,Small Business,3.0,Gold,North East
+405,113.0,53.0,Small Business,2.0,Platinum,North East
+406,13.0,63.0,Retail,2.0,Blue,West
+407,78.0,36.0,Retail,1.0,Platinum,North East
+408,113.0,62.0,Retail,4.0,Blue,North East
+409,39.0,37.0,Retail,6.0,Platinum,West
+410,9.0,35.0,Retail,1.0,Blue,East
+411,106.0,46.0,Retail,5.0,Gold,North East
+412,57.0,30.0,Small Business,4.0,Blue,East
+413,4.0,43.0,Small Business,2.0,Platinum,North
+414,101.0,41.0,Retail,2.0,Platinum,North
+415,82.0,37.0,Small Business,2.0,Blue,West
+416,9.0,63.0,Retail,5.0,Gold,North
+417,32.0,39.0,Retail,2.0,Gold,North
+418,3.0,59.0,Small Business,5.0,Blue,South
+419,115.0,60.0,Retail,3.0,Gold,West
+420,3.0,57.0,Retail,1.0,Gold,East
+421,96.0,36.0,Small Business,1.0,Gold,West
+422,62.0,66.0,Retail,3.0,Blue,West
+423,70.0,34.0,Small Business,3.0,Platinum,North East
+424,98.0,36.0,Retail,5.0,Blue,South
+425,108.0,69.0,Small Business,3.0,Gold,East
+426,16.0,40.0,Retail,1.0,Blue,West
+427,3.0,59.0,Retail,2.0,Blue,South
+428,15.0,24.0,Retail,4.0,Blue,South
+429,82.0,55.0,Small Business,3.0,Blue,North
+430,69.0,68.0,Retail,5.0,Gold,South
+431,11.0,60.0,Small Business,6.0,Gold,South
+432,29.0,53.0,Retail,3.0,Gold,South
+433,65.0,67.0,Retail,4.0,Gold,South
+434,88.0,38.0,Retail,5.0,Blue,Central
+435,42.0,42.0,Retail,2.0,Blue,Central
+436,114.0,25.0,Small Business,4.0,Gold,West
+437,120.0,59.0,Retail,2.0,Gold,North
+438,92.0,61.0,Retail,4.0,Gold,Central
+439,55.0,62.0,Retail,5.0,Blue,North
+440,106.0,62.0,Retail,1.0,Gold,North
+441,88.0,28.0,Retail,2.0,Blue,West
+442,63.0,57.0,Small Business,1.0,Gold,East
+443,54.0,63.0,Retail,1.0,Blue,South
+444,100.0,33.0,Retail,1.0,Gold,North East
+445,67.0,47.0,Retail,5.0,Blue,North
+446,22.0,71.0,Retail,6.0,Gold,North
+447,120.0,44.0,Retail,3.0,Blue,West
+448,9.0,62.0,Retail,6.0,Gold,East
+449,84.0,50.0,Retail,5.0,Blue,Central
+450,79.0,57.0,Small Business,5.0,Gold,North
+451,71.0,55.0,Small Business,5.0,Blue,East
+452,7.0,57.0,Small Business,2.0,Blue,North
+453,60.0,64.0,Small Business,4.0,Gold,North
+454,108.0,70.0,Retail,4.0,Blue,East
+455,29.0,37.0,Small Business,4.0,Blue,Central
+456,83.0,72.0,Retail,5.0,Gold,North
+457,104.0,55.0,Retail,1.0,Gold,North East
+458,115.0,54.0,Retail,5.0,Platinum,West
+459,62.0,39.0,Retail,5.0,Blue,East
+460,38.0,44.0,Small Business,1.0,Gold,North East
+461,84.0,57.0,Small Business,3.0,Gold,South
+462,59.0,41.0,Retail,6.0,Blue,South
+463,76.0,37.0,Retail,1.0,Gold,Central
+464,90.0,66.0,Retail,1.0,Blue,North
+465,86.0,44.0,Retail,5.0,Platinum,North East
+466,30.0,56.0,Small Business,2.0,Gold,Central
+467,91.0,23.0,Small Business,5.0,Blue,North East
+468,66.0,26.0,Retail,6.0,Blue,East
+469,112.0,67.0,Retail,3.0,Blue,West
+470,80.0,29.0,Retail,3.0,Blue,North East
+471,108.0,64.0,Retail,3.0,Gold,North
+472,118.0,70.0,Retail,3.0,Gold,South
+473,120.0,47.0,Retail,3.0,Gold,East
+474,90.0,69.0,Retail,4.0,Blue,West
+475,72.0,45.0,Retail,6.0,Gold,Central
+476,15.0,73.0,Retail,6.0,Blue,North East
+477,47.0,34.0,Small Business,6.0,Blue,East
+478,58.0,45.0,Retail,1.0,Platinum,South
+479,94.0,43.0,Small Business,2.0,Gold,South
+480,71.0,64.0,Retail,5.0,Gold,Central
+481,53.0,24.0,Retail,4.0,Platinum,East
+482,18.0,66.0,Retail,3.0,Blue,West
+483,86.0,23.0,Small Business,2.0,Platinum,West
+484,52.0,39.0,Retail,1.0,Gold,Central
+485,5.0,54.0,Retail,2.0,Gold,South
+486,35.0,29.0,Retail,3.0,Blue,South
+487,106.0,48.0,Small Business,3.0,Blue,Central
+488,15.0,75.0,Retail,4.0,Blue,East
+489,49.0,66.0,Retail,2.0,Blue,Central
+490,62.0,23.0,Small Business,2.0,Blue,North
+491,11.0,53.0,Retail,6.0,Gold,South
+492,20.0,54.0,Retail,3.0,Gold,North East
+493,113.0,25.0,Small Business,2.0,Blue,North East
+494,71.0,57.0,Retail,4.0,Gold,North
+495,26.0,50.0,Retail,4.0,Platinum,Central
+496,21.0,58.0,Retail,4.0,Gold,North
+497,52.0,38.0,Retail,2.0,Gold,North
+498,87.0,35.0,Small Business,5.0,Gold,North East
+499,88.0,61.0,Retail,2.0,Blue,North
+500,24.0,60.0,Retail,6.0,Blue,South
+501,88.0,30.0,Retail,3.0,Platinum,North
+502,108.0,33.0,Retail,3.0,Gold,West
+503,28.0,53.0,Retail,3.0,Gold,North
+504,4.0,66.0,Retail,3.0,Platinum,South
+505,116.0,32.0,Small Business,4.0,Blue,South
+506,63.0,33.0,Retail,3.0,Blue,West
+507,94.0,65.0,Small Business,1.0,Gold,East
+508,39.0,59.0,Retail,4.0,Blue,South
+509,36.0,70.0,Retail,2.0,Gold,East
+510,28.0,64.0,Small Business,1.0,Gold,East
+511,27.0,73.0,Small Business,6.0,Gold,East
+512,57.0,32.0,Retail,2.0,Blue,West
+513,13.0,36.0,Retail,4.0,Gold,South
+514,102.0,34.0,Small Business,2.0,Blue,East
+515,62.0,24.0,Retail,3.0,Platinum,Central
+516,110.0,64.0,Retail,3.0,Blue,South
+517,61.0,57.0,Retail,1.0,Platinum,South
+518,37.0,26.0,Retail,6.0,Blue,North
+519,62.0,32.0,Retail,2.0,Blue,Central
+520,19.0,32.0,Retail,4.0,Gold,Central
+521,99.0,43.0,Small Business,4.0,Blue,Central
+522,87.0,46.0,Retail,3.0,Blue,South
+523,18.0,37.0,Retail,4.0,Gold,East
+524,70.0,72.0,Small Business,4.0,Gold,South
+525,65.0,33.0,Retail,1.0,Blue,Central
+526,25.0,52.0,Retail,5.0,Gold,East
+527,15.0,45.0,Retail,1.0,Platinum,East
+528,92.0,42.0,Retail,3.0,Gold,East
+529,32.0,66.0,Retail,3.0,Blue,Central
+530,63.0,74.0,Small Business,3.0,Blue,Central
+531,30.0,22.0,Small Business,1.0,Platinum,Central
+532,79.0,47.0,Retail,5.0,Blue,East
+533,6.0,28.0,Retail,3.0,Blue,Central
+534,44.0,45.0,Small Business,1.0,Gold,North East
+535,66.0,55.0,Retail,1.0,Blue,West
+536,53.0,44.0,Small Business,4.0,Gold,Central
+537,74.0,38.0,Retail,4.0,Blue,North East
+538,22.0,38.0,Small Business,4.0,Gold,North East
+539,54.0,38.0,Small Business,5.0,Platinum,South
+540,91.0,39.0,Retail,5.0,Platinum,Central
+541,41.0,42.0,Retail,6.0,Platinum,East
+542,19.0,59.0,Small Business,6.0,Platinum,North
+543,102.0,27.0,Retail,6.0,Blue,East
+544,94.0,24.0,Retail,5.0,Platinum,North East
+545,82.0,49.0,Retail,3.0,Platinum,North East
+546,96.0,58.0,Retail,4.0,Gold,Central
+547,94.0,35.0,Retail,4.0,Blue,North East
+548,90.0,32.0,Retail,2.0,Blue,West
+549,62.0,55.0,Retail,5.0,Gold,Central
+550,3.0,42.0,Small Business,4.0,Gold,North
+551,72.0,61.0,Retail,4.0,Blue,South
+552,33.0,29.0,Retail,6.0,Blue,South
+553,93.0,28.0,Retail,5.0,Gold,North East
+554,57.0,51.0,Small Business,6.0,Blue,West
+555,109.0,43.0,Retail,6.0,Platinum,North East
+556,72.0,61.0,Small Business,5.0,Blue,East
+557,67.0,49.0,Retail,2.0,Blue,East
+558,111.0,41.0,Retail,2.0,Blue,Central
+559,58.0,30.0,Small Business,2.0,Platinum,West
+560,46.0,30.0,Small Business,5.0,Platinum,East
+561,45.0,62.0,Retail,6.0,Blue,South
+562,106.0,34.0,Retail,6.0,Blue,West
+563,91.0,49.0,Retail,5.0,Blue,North
+564,20.0,66.0,Retail,5.0,Blue,South
+565,60.0,70.0,Small Business,6.0,Gold,North
+566,45.0,36.0,Small Business,5.0,Blue,North
+567,78.0,27.0,Retail,1.0,Gold,South
+568,7.0,63.0,Retail,4.0,Blue,North
+569,86.0,59.0,Retail,3.0,Blue,North
+570,90.0,39.0,Retail,4.0,Blue,Central
+571,28.0,54.0,Small Business,4.0,Blue,South
+572,19.0,32.0,Retail,2.0,Blue,West
+573,76.0,59.0,Retail,2.0,Blue,North
+574,31.0,61.0,Retail,1.0,Blue,North East
+575,113.0,38.0,Small Business,2.0,Platinum,South
+576,94.0,47.0,Retail,5.0,Blue,Central
+577,115.0,40.0,Retail,4.0,Blue,West
+578,65.0,23.0,Retail,6.0,Blue,Central
+579,113.0,28.0,Retail,6.0,Gold,West
+580,2.0,73.0,Retail,6.0,Platinum,West
+581,35.0,46.0,Retail,2.0,Gold,Central
+582,1.0,29.0,Retail,3.0,Gold,Central
+583,82.0,24.0,Retail,1.0,Gold,East
+584,62.0,41.0,Small Business,1.0,Blue,North East
+585,35.0,75.0,Retail,2.0,Platinum,North East
+586,37.0,42.0,Retail,2.0,Gold,Central
+587,78.0,75.0,Retail,1.0,Blue,North East
+588,22.0,48.0,Small Business,6.0,Blue,North
+589,62.0,63.0,Small Business,4.0,Blue,West
+590,74.0,64.0,Small Business,4.0,Blue,West
+591,29.0,23.0,Retail,4.0,Gold,North East
+592,28.0,22.0,Retail,6.0,Blue,North
+593,43.0,71.0,Retail,1.0,Gold,Central
+594,72.0,72.0,Retail,3.0,Platinum,North
+595,31.0,29.0,Retail,2.0,Blue,East
+596,46.0,56.0,Retail,4.0,Blue,Central
+597,66.0,71.0,Retail,4.0,Gold,South
+598,23.0,73.0,Retail,5.0,Gold,North East
+599,69.0,38.0,Retail,4.0,Blue,North East
+600,17.0,66.0,Retail,2.0,Blue,North
+601,18.0,56.0,Small Business,4.0,Gold,South
+602,29.0,72.0,Retail,6.0,Platinum,North
+603,35.0,29.0,Small Business,4.0,Blue,Central
+604,4.0,54.0,Retail,4.0,Blue,North East
+605,116.0,23.0,Small Business,2.0,Platinum,West
+606,37.0,41.0,Small Business,1.0,Blue,North
+607,97.0,22.0,Retail,2.0,Blue,South
+608,109.0,45.0,Small Business,1.0,Gold,North
+609,97.0,65.0,Retail,3.0,Blue,East
+610,100.0,57.0,Retail,6.0,Blue,Central
+611,13.0,39.0,Small Business,3.0,Gold,North
+612,45.0,45.0,Retail,4.0,Gold,North East
+613,90.0,41.0,Retail,6.0,Gold,South
+614,70.0,61.0,Retail,5.0,Blue,West
+615,1.0,36.0,Retail,4.0,Gold,Central
+616,69.0,26.0,Retail,5.0,Gold,West
+617,97.0,49.0,Retail,2.0,Gold,East
+618,100.0,66.0,Retail,3.0,Gold,East
+619,47.0,47.0,Retail,3.0,Gold,East
+620,29.0,33.0,Retail,5.0,Platinum,South
+621,38.0,24.0,Retail,3.0,Gold,South
+622,36.0,72.0,Retail,6.0,Blue,Central
+623,42.0,63.0,Retail,2.0,Platinum,North East
+624,37.0,30.0,Retail,2.0,Platinum,North East
+625,55.0,25.0,Small Business,5.0,Blue,South
+626,5.0,28.0,Small Business,5.0,Blue,South
+627,34.0,42.0,Retail,5.0,Gold,North
+628,38.0,65.0,Retail,2.0,Blue,South
+629,19.0,30.0,Small Business,1.0,Gold,West
+630,106.0,66.0,Small Business,2.0,Gold,South
+631,82.0,22.0,Retail,3.0,Blue,Central
+632,110.0,61.0,Retail,3.0,Blue,North
+633,68.0,37.0,Retail,6.0,Platinum,East
+634,14.0,73.0,Retail,6.0,Blue,South
+635,109.0,47.0,Small Business,5.0,Gold,East
+636,55.0,36.0,Retail,1.0,Blue,North
+637,83.0,35.0,Retail,1.0,Blue,East
+638,46.0,66.0,Retail,3.0,Gold,Central
+639,60.0,43.0,Small Business,4.0,Blue,North East
+640,59.0,41.0,Retail,5.0,Gold,South
+641,35.0,61.0,Small Business,2.0,Gold,East
+642,67.0,51.0,Retail,1.0,Blue,Central
+643,89.0,57.0,Retail,2.0,Blue,East
+644,3.0,46.0,Retail,5.0,Gold,West
+645,16.0,25.0,Retail,6.0,Gold,East
+646,102.0,22.0,Small Business,6.0,Gold,North East
+647,69.0,24.0,Retail,4.0,Gold,West
+648,117.0,53.0,Retail,1.0,Blue,North East
+649,73.0,49.0,Retail,6.0,Blue,Central
+650,79.0,62.0,Retail,1.0,Gold,East
+651,108.0,70.0,Retail,2.0,Gold,South
+652,80.0,31.0,Small Business,6.0,Gold,North
+653,40.0,73.0,Retail,4.0,Blue,West
+654,64.0,72.0,Retail,2.0,Gold,Central
+655,29.0,55.0,Retail,4.0,Gold,East
+656,41.0,50.0,Retail,1.0,Blue,North
+657,82.0,31.0,Retail,2.0,Gold,Central
+658,18.0,31.0,Retail,6.0,Gold,South
+659,81.0,23.0,Retail,2.0,Blue,West
+660,71.0,56.0,Small Business,6.0,Blue,North
+661,38.0,45.0,Small Business,4.0,Blue,North
+662,6.0,32.0,Small Business,4.0,Platinum,North East
+663,85.0,29.0,Retail,5.0,Blue,Central
+664,99.0,25.0,Retail,4.0,Blue,North
+665,88.0,56.0,Small Business,1.0,Blue,North
+666,51.0,59.0,Retail,6.0,Blue,East
+667,79.0,56.0,Retail,3.0,Blue,Central
+668,50.0,27.0,Retail,4.0,Gold,East
+669,43.0,24.0,Small Business,4.0,Blue,North East
+670,40.0,27.0,Retail,4.0,Blue,West
+671,26.0,62.0,Retail,3.0,Blue,West
+672,117.0,61.0,Retail,6.0,Blue,South
+673,80.0,37.0,Retail,2.0,Blue,Central
+674,21.0,24.0,Retail,4.0,Gold,North East
+675,104.0,39.0,Retail,4.0,Gold,North
+676,19.0,65.0,Retail,4.0,Gold,Central
+677,72.0,29.0,Small Business,1.0,Blue,North East
+678,20.0,64.0,Small Business,3.0,Platinum,East
+679,44.0,47.0,Retail,1.0,Gold,Central
+680,80.0,29.0,Small Business,4.0,Blue,East
+681,120.0,72.0,Retail,5.0,Blue,South
+682,120.0,49.0,Small Business,4.0,Gold,Central
+683,108.0,58.0,Retail,5.0,Blue,South
+684,29.0,27.0,Retail,3.0,Blue,Central
+685,12.0,42.0,Retail,2.0,Gold,South
+686,109.0,56.0,Retail,3.0,Blue,East
+687,111.0,56.0,Retail,2.0,Platinum,Central
+688,34.0,25.0,Retail,5.0,Blue,East
+689,3.0,54.0,Retail,5.0,Blue,Central
+690,78.0,73.0,Retail,3.0,Blue,North
+691,10.0,64.0,Retail,5.0,Blue,North
+692,5.0,33.0,Small Business,1.0,Platinum,North
+693,113.0,71.0,Retail,1.0,Gold,South
+694,60.0,58.0,Small Business,2.0,Platinum,North
+695,14.0,25.0,Retail,3.0,Gold,East
+696,79.0,28.0,Retail,2.0,Blue,North
+697,45.0,71.0,Retail,4.0,Blue,Central
+698,65.0,33.0,Retail,5.0,Blue,North
+699,108.0,27.0,Retail,3.0,Platinum,North East
+700,29.0,46.0,Small Business,3.0,Blue,North East
+701,78.0,50.0,Retail,1.0,Blue,Central
+702,100.0,52.0,Small Business,2.0,Gold,Central
+703,51.0,57.0,Retail,5.0,Gold,Central
+704,117.0,75.0,Retail,5.0,Blue,North East
+705,54.0,62.0,Retail,1.0,Gold,West
+706,56.0,23.0,Small Business,1.0,Gold,West
+707,107.0,26.0,Retail,5.0,Gold,East
+708,77.0,22.0,Retail,2.0,Blue,West
+709,105.0,43.0,Retail,4.0,Blue,East
+710,95.0,40.0,Retail,5.0,Blue,North
+711,86.0,72.0,Small Business,5.0,Platinum,North East
+712,29.0,41.0,Small Business,4.0,Platinum,Central
+713,48.0,23.0,Small Business,3.0,Gold,Central
+714,104.0,69.0,Small Business,5.0,Blue,South
+715,74.0,36.0,Small Business,5.0,Blue,Central
+716,34.0,71.0,Retail,6.0,Gold,West
+717,40.0,63.0,Retail,4.0,Blue,North
+718,94.0,69.0,Retail,6.0,Gold,North East
+719,22.0,66.0,Retail,5.0,Gold,North East
+720,14.0,29.0,Retail,1.0,Blue,North East
+721,92.0,55.0,Retail,2.0,Blue,East
+722,35.0,44.0,Small Business,5.0,Blue,South
+723,92.0,55.0,Small Business,1.0,Blue,North
+724,65.0,62.0,Retail,5.0,Gold,Central
+725,120.0,49.0,Small Business,3.0,Blue,North East
+726,63.0,38.0,Retail,2.0,Blue,North
+727,105.0,71.0,Retail,4.0,Blue,Central
+728,103.0,57.0,Retail,6.0,Blue,North
+729,26.0,69.0,Retail,6.0,Gold,Central
+730,120.0,34.0,Retail,3.0,Gold,North
+731,90.0,67.0,Retail,1.0,Gold,North East
+732,13.0,39.0,Retail,6.0,Gold,South
+733,1.0,46.0,Retail,6.0,Blue,East
+734,33.0,68.0,Small Business,4.0,Gold,Central
+735,2.0,41.0,Retail,4.0,Blue,North East
+736,43.0,35.0,Retail,4.0,Platinum,East
+737,120.0,71.0,Retail,1.0,Blue,North East
+738,58.0,74.0,Retail,1.0,Blue,North
+739,3.0,38.0,Retail,1.0,Blue,East
+740,60.0,38.0,Retail,6.0,Gold,North East
+741,27.0,34.0,Retail,1.0,Blue,South
+742,103.0,23.0,Retail,4.0,Platinum,West
+743,11.0,51.0,Retail,3.0,Blue,East
+744,93.0,35.0,Retail,1.0,Gold,East
+745,54.0,67.0,Retail,6.0,Gold,Central
+746,3.0,31.0,Retail,1.0,Blue,West
+747,81.0,56.0,Retail,6.0,Blue,Central
+748,55.0,49.0,Retail,5.0,Blue,West
+749,93.0,55.0,Retail,5.0,Gold,North East
+750,75.0,28.0,Retail,1.0,Platinum,East
+751,95.0,47.0,Retail,6.0,Blue,Central
+752,56.0,55.0,Retail,4.0,Blue,West
+753,1.0,40.0,Retail,3.0,Blue,Central
+754,16.0,69.0,Retail,5.0,Blue,North East
+755,56.0,50.0,Retail,3.0,Gold,South
+756,48.0,41.0,Small Business,2.0,Blue,South
+757,96.0,23.0,Small Business,2.0,Blue,South
+758,50.0,31.0,Small Business,4.0,Platinum,East
+759,104.0,47.0,Retail,4.0,Gold,East
+760,23.0,43.0,Retail,2.0,Gold,North
+761,47.0,69.0,Retail,2.0,Blue,North East
+762,91.0,64.0,Retail,6.0,Platinum,North East
+763,15.0,30.0,Retail,4.0,Gold,West
+764,39.0,53.0,Retail,6.0,Gold,South
+765,91.0,46.0,Retail,2.0,Blue,Central
+766,71.0,27.0,Retail,2.0,Platinum,South
+767,94.0,57.0,Retail,2.0,Gold,South
+768,62.0,51.0,Retail,4.0,Gold,North East
+769,104.0,26.0,Small Business,5.0,Gold,North East
+770,106.0,47.0,Retail,4.0,Gold,West
+771,117.0,61.0,Retail,2.0,Gold,South
+772,15.0,39.0,Small Business,6.0,Platinum,North
+773,71.0,41.0,Retail,4.0,Blue,North East
+774,14.0,27.0,Retail,3.0,Blue,South
+775,28.0,33.0,Retail,1.0,Gold,Central
+776,37.0,74.0,Retail,4.0,Gold,East
+777,78.0,55.0,Retail,4.0,Gold,East
+778,52.0,31.0,Small Business,6.0,Gold,North East
+779,104.0,48.0,Small Business,2.0,Gold,West
+780,36.0,32.0,Small Business,1.0,Gold,East
+781,75.0,45.0,Small Business,6.0,Blue,East
+782,92.0,29.0,Retail,4.0,Platinum,South
+783,118.0,55.0,Small Business,1.0,Blue,West
+784,30.0,52.0,Retail,1.0,Gold,West
+785,89.0,56.0,Retail,3.0,Platinum,North
+786,11.0,45.0,Small Business,4.0,Blue,East
+787,66.0,37.0,Small Business,2.0,Blue,West
+788,50.0,35.0,Small Business,3.0,Blue,North
+789,116.0,33.0,Retail,5.0,Gold,North East
+790,93.0,45.0,Retail,6.0,Blue,North East
+791,112.0,46.0,Retail,3.0,Blue,West
+792,103.0,58.0,Retail,3.0,Platinum,North
+793,50.0,24.0,Small Business,3.0,Blue,West
+794,89.0,37.0,Small Business,1.0,Gold,North East
+795,4.0,68.0,Retail,1.0,Gold,North
+796,67.0,71.0,Retail,6.0,Blue,Central
+797,6.0,72.0,Retail,1.0,Blue,North East
+798,87.0,38.0,Retail,5.0,Platinum,North
+799,117.0,29.0,Retail,2.0,Gold,South
+800,82.0,32.0,Small Business,5.0,Blue,Central
+801,101.0,29.0,Retail,6.0,Gold,North East
+802,29.0,73.0,Small Business,5.0,Gold,Central
+803,120.0,69.0,Retail,5.0,Blue,West
+804,67.0,65.0,Small Business,2.0,Gold,West
+805,81.0,61.0,Retail,4.0,Blue,West
+806,93.0,40.0,Retail,4.0,Blue,West
+807,77.0,47.0,Retail,3.0,Platinum,Central
+808,39.0,67.0,Small Business,1.0,Blue,North
+809,74.0,65.0,Small Business,6.0,Blue,South
+810,79.0,50.0,Retail,2.0,Blue,North
+811,103.0,67.0,Retail,6.0,Gold,Central
+812,58.0,40.0,Retail,6.0,Gold,Central
+813,61.0,44.0,Small Business,1.0,Platinum,North
+814,61.0,67.0,Retail,5.0,Blue,North
+815,14.0,42.0,Retail,4.0,Gold,South
+816,11.0,62.0,Retail,2.0,Gold,South
+817,3.0,46.0,Retail,5.0,Blue,West
+818,80.0,38.0,Small Business,1.0,Blue,East
+819,51.0,33.0,Small Business,2.0,Gold,East
+820,104.0,54.0,Small Business,6.0,Blue,North
+821,85.0,47.0,Small Business,5.0,Gold,West
+822,17.0,41.0,Small Business,1.0,Gold,Central
+823,13.0,62.0,Retail,1.0,Blue,West
+824,44.0,22.0,Small Business,2.0,Platinum,Central
+825,111.0,26.0,Retail,1.0,Gold,North East
+826,6.0,73.0,Retail,2.0,Blue,North East
+827,23.0,57.0,Small Business,4.0,Gold,West
+828,4.0,51.0,Retail,1.0,Blue,North
+829,50.0,22.0,Retail,2.0,Gold,East
+830,119.0,54.0,Retail,2.0,Blue,East
+831,83.0,45.0,Retail,6.0,Blue,Central
+832,60.0,54.0,Small Business,6.0,Blue,North East
+833,18.0,24.0,Retail,6.0,Blue,West
+834,43.0,51.0,Retail,3.0,Blue,East
+835,63.0,53.0,Retail,4.0,Blue,Central
+836,33.0,37.0,Retail,4.0,Platinum,Central
+837,85.0,24.0,Retail,6.0,Blue,Central
+838,118.0,74.0,Retail,5.0,Blue,West
+839,25.0,60.0,Retail,6.0,Blue,West
+840,31.0,55.0,Retail,4.0,Gold,East
+841,16.0,63.0,Retail,6.0,Blue,East
+842,88.0,58.0,Retail,5.0,Gold,South
+843,56.0,29.0,Small Business,5.0,Gold,South
+844,35.0,46.0,Retail,4.0,Blue,West
+845,27.0,69.0,Retail,3.0,Platinum,East
+846,9.0,37.0,Small Business,4.0,Blue,North
+847,58.0,74.0,Retail,3.0,Gold,North
+848,82.0,25.0,Retail,4.0,Blue,North East
+849,29.0,39.0,Small Business,2.0,Gold,East
+850,1.0,40.0,Retail,5.0,Gold,West
+851,57.0,55.0,Small Business,4.0,Blue,North East
+852,82.0,31.0,Small Business,5.0,Blue,North
+853,42.0,34.0,Small Business,2.0,Blue,North East
+854,31.0,57.0,Small Business,5.0,Blue,Central
+855,19.0,37.0,Retail,5.0,Platinum,West
+856,90.0,69.0,Small Business,1.0,Gold,East
+857,104.0,68.0,Retail,3.0,Gold,Central
+858,93.0,38.0,Retail,5.0,Platinum,South
+859,63.0,52.0,Retail,6.0,Gold,South
+860,87.0,39.0,Retail,5.0,Gold,North East
+861,48.0,40.0,Retail,3.0,Blue,South
+862,3.0,58.0,Retail,2.0,Blue,Central
+863,45.0,37.0,Retail,6.0,Blue,North East
+864,85.0,30.0,Retail,6.0,Blue,West
+865,78.0,35.0,Small Business,6.0,Blue,South
+866,119.0,72.0,Retail,2.0,Blue,North East
+867,120.0,36.0,Small Business,3.0,Blue,Central
+868,30.0,41.0,Small Business,2.0,Blue,West
+869,2.0,55.0,Small Business,6.0,Blue,North
+870,33.0,27.0,Retail,6.0,Blue,East
+871,106.0,36.0,Small Business,2.0,Blue,East
+872,98.0,31.0,Small Business,2.0,Blue,South
+873,12.0,71.0,Small Business,4.0,Gold,East
+874,20.0,72.0,Small Business,3.0,Gold,North
+875,68.0,62.0,Retail,3.0,Blue,Central
+876,80.0,35.0,Retail,3.0,Blue,East
+877,118.0,55.0,Small Business,5.0,Blue,Central
+878,91.0,57.0,Retail,6.0,Blue,East
+879,26.0,68.0,Small Business,6.0,Blue,Central
+880,5.0,30.0,Retail,3.0,Platinum,Central
+881,77.0,61.0,Retail,5.0,Blue,North
+882,67.0,32.0,Retail,5.0,Blue,East
+883,111.0,52.0,Retail,2.0,Gold,Central
+884,70.0,69.0,Small Business,5.0,Gold,West
+885,61.0,25.0,Retail,3.0,Blue,South
+886,37.0,29.0,Small Business,4.0,Blue,Central
+887,11.0,65.0,Retail,5.0,Platinum,South
+888,106.0,23.0,Small Business,6.0,Blue,North East
+889,100.0,58.0,Retail,6.0,Gold,Central
+890,20.0,49.0,Retail,5.0,Gold,South
+891,85.0,40.0,Retail,4.0,Blue,South
+892,44.0,68.0,Retail,3.0,Gold,North East
+893,53.0,67.0,Small Business,3.0,Blue,West
+894,102.0,39.0,Small Business,6.0,Blue,Central
+895,102.0,22.0,Retail,2.0,Blue,Central
+896,23.0,28.0,Retail,4.0,Platinum,North
+897,37.0,27.0,Retail,5.0,Blue,Central
+898,99.0,75.0,Retail,1.0,Blue,East
+899,111.0,54.0,Retail,4.0,Platinum,North East
+900,10.0,58.0,Retail,2.0,Blue,South
+901,101.0,34.0,Retail,2.0,Platinum,North
+902,59.0,67.0,Small Business,4.0,Gold,West
+903,71.0,61.0,Retail,1.0,Gold,West
+904,10.0,62.0,Retail,1.0,Gold,West
+905,82.0,47.0,Retail,3.0,Gold,South
+906,82.0,59.0,Retail,4.0,Blue,East
+907,80.0,51.0,Retail,1.0,Platinum,North East
+908,95.0,42.0,Retail,3.0,Platinum,Central
+909,114.0,54.0,Retail,2.0,Platinum,North East
+910,102.0,39.0,Small Business,4.0,Gold,South
+911,90.0,73.0,Small Business,2.0,Gold,North East
+912,118.0,60.0,Small Business,1.0,Gold,East
+913,81.0,61.0,Retail,4.0,Blue,North East
+914,81.0,60.0,Retail,6.0,Blue,North East
+915,66.0,46.0,Retail,4.0,Gold,North
+916,93.0,73.0,Retail,3.0,Gold,North East
+917,9.0,33.0,Small Business,3.0,Blue,West
+918,61.0,52.0,Small Business,1.0,Blue,Central
+919,52.0,25.0,Retail,2.0,Gold,West
+920,110.0,37.0,Retail,3.0,Blue,South
+921,9.0,53.0,Retail,4.0,Platinum,North East
+922,78.0,48.0,Retail,3.0,Gold,North
+923,23.0,72.0,Small Business,6.0,Blue,Central
+924,107.0,55.0,Retail,4.0,Blue,South
+925,103.0,44.0,Retail,1.0,Gold,Central
+926,29.0,45.0,Retail,4.0,Blue,East
+927,105.0,55.0,Retail,4.0,Gold,South
+928,60.0,64.0,Retail,1.0,Blue,South
+929,117.0,36.0,Small Business,3.0,Blue,South
+930,88.0,53.0,Retail,6.0,Blue,North East
+931,5.0,53.0,Retail,3.0,Gold,Central
+932,25.0,22.0,Retail,3.0,Platinum,Central
+933,49.0,71.0,Retail,2.0,Platinum,West
+934,26.0,52.0,Retail,1.0,Blue,East
+935,16.0,35.0,Retail,2.0,Gold,North East
+936,118.0,56.0,Retail,5.0,Blue,South
+937,105.0,58.0,Retail,6.0,Gold,North East
+938,53.0,71.0,Small Business,4.0,Platinum,East
+939,26.0,23.0,Small Business,5.0,Blue,East
+940,22.0,44.0,Small Business,4.0,Platinum,East
+941,110.0,31.0,Retail,4.0,Blue,Central
+942,40.0,53.0,Small Business,3.0,Blue,Central
+943,2.0,49.0,Retail,1.0,Gold,Central
+944,48.0,47.0,Retail,3.0,Platinum,North
+945,55.0,75.0,Retail,6.0,Blue,North
+946,75.0,50.0,Retail,4.0,Gold,North East
+947,41.0,44.0,Small Business,5.0,Blue,North East
+948,111.0,25.0,Retail,1.0,Gold,North
+949,78.0,37.0,Retail,2.0,Gold,North East
+950,119.0,70.0,Small Business,2.0,Blue,South
+951,45.0,46.0,Retail,3.0,Gold,North East
+952,79.0,71.0,Small Business,6.0,Gold,North East
+953,44.0,50.0,Small Business,3.0,Gold,West
+954,84.0,51.0,Small Business,4.0,Blue,South
+955,90.0,45.0,Small Business,4.0,Blue,Central
+956,39.0,52.0,Retail,3.0,Platinum,North
+957,113.0,25.0,Retail,6.0,Gold,East
+958,103.0,25.0,Small Business,2.0,Gold,West
+959,108.0,47.0,Small Business,1.0,Gold,North
+960,27.0,54.0,Retail,5.0,Gold,East
+961,87.0,51.0,Retail,4.0,Blue,Central
+962,13.0,45.0,Retail,2.0,Blue,North
+963,13.0,37.0,Retail,6.0,Gold,East
+964,117.0,60.0,Retail,1.0,Blue,North
+965,19.0,54.0,Small Business,2.0,Blue,West
+966,104.0,24.0,Small Business,1.0,Gold,North
+967,52.0,46.0,Retail,2.0,Platinum,South
+968,37.0,60.0,Retail,5.0,Gold,West
+969,9.0,64.0,Retail,5.0,Blue,South
+970,82.0,37.0,Retail,4.0,Platinum,South
+971,87.0,71.0,Retail,6.0,Blue,North East
+972,57.0,57.0,Retail,1.0,Blue,Central
+973,98.0,45.0,Retail,4.0,Platinum,North
+974,39.0,55.0,Retail,1.0,Gold,North East
+975,67.0,69.0,Retail,6.0,Platinum,East
+976,35.0,34.0,Retail,4.0,Gold,North
+977,70.0,30.0,Retail,5.0,Gold,North East
+978,17.0,45.0,Retail,4.0,Blue,East
+979,58.0,26.0,Retail,3.0,Blue,South
+980,66.0,67.0,Retail,5.0,Platinum,North
+981,67.0,74.0,Retail,6.0,Platinum,North East
+982,54.0,54.0,Retail,2.0,Blue,South
+983,78.0,74.0,Small Business,6.0,Blue,West
+984,62.0,25.0,Retail,5.0,Blue,South
+985,34.0,56.0,Retail,1.0,Blue,North East
+986,26.0,45.0,Retail,6.0,Platinum,Central
+987,78.0,36.0,Small Business,2.0,Blue,West
+988,113.0,38.0,Small Business,4.0,Blue,East
+989,91.0,51.0,Retail,1.0,Platinum,West
+990,77.0,56.0,Retail,2.0,Gold,East
+991,111.0,30.0,Retail,4.0,Blue,North East
+992,108.0,55.0,Retail,5.0,Blue,Central
+993,61.0,72.0,Retail,5.0,Blue,North
+994,14.0,22.0,Retail,3.0,Blue,Central
+995,77.0,69.0,Small Business,5.0,Blue,South
+996,75.0,54.0,Small Business,1.0,Blue,South
+997,34.0,40.0,Retail,6.0,Blue,East
+998,102.0,61.0,Small Business,2.0,Blue,South
+999,105.0,55.0,Retail,4.0,Blue,North East
+1000,40.0,63.0,Retail,6.0,Platinum,North East
+1001,58.0,26.0,Small Business,2.0,Blue,North
+1002,24.0,25.0,Retail,3.0,Blue,South
+1003,22.0,56.0,Retail,5.0,Platinum,East
+1004,32.0,38.0,Retail,6.0,Blue,Central
+1005,44.0,34.0,Retail,2.0,Blue,West
+1006,33.0,44.0,Retail,4.0,Gold,Central
+1007,19.0,61.0,Retail,2.0,Gold,North
+1008,54.0,31.0,Retail,4.0,Blue,West
+1009,75.0,74.0,Retail,3.0,Gold,South
+1010,40.0,44.0,Retail,1.0,Gold,South
+1011,65.0,30.0,Small Business,6.0,Blue,Central
+1012,33.0,25.0,Retail,4.0,Blue,North
+1013,85.0,68.0,Retail,3.0,Blue,North
+1014,78.0,28.0,Small Business,1.0,Gold,East
+1015,116.0,44.0,Small Business,1.0,Blue,Central
+1016,7.0,58.0,Retail,3.0,Blue,West
+1017,103.0,49.0,Small Business,4.0,Gold,North
+1018,41.0,36.0,Small Business,2.0,Platinum,Central
+1019,8.0,27.0,Retail,5.0,Blue,East
+1020,83.0,60.0,Small Business,3.0,Blue,Central
+1021,21.0,48.0,Small Business,1.0,Blue,South
+1022,22.0,24.0,Retail,4.0,Gold,North East
+1023,118.0,31.0,Retail,2.0,Blue,South
+1024,27.0,52.0,Small Business,1.0,Platinum,North East
+1025,66.0,31.0,Small Business,1.0,Blue,East
+1026,25.0,43.0,Retail,2.0,Blue,Central
+1027,15.0,28.0,Small Business,4.0,Blue,West
+1028,1.0,65.0,Small Business,6.0,Blue,North
+1029,2.0,56.0,Small Business,2.0,Blue,North
+1030,57.0,64.0,Small Business,1.0,Gold,East
+1031,53.0,24.0,Retail,2.0,Blue,South
+1032,5.0,42.0,Retail,2.0,Gold,West
+1033,42.0,36.0,Retail,2.0,Blue,North
+1034,33.0,55.0,Retail,2.0,Gold,West
+1035,69.0,66.0,Retail,6.0,Blue,South
+1036,120.0,34.0,Small Business,3.0,Gold,South
+1037,83.0,63.0,Small Business,4.0,Blue,East
+1038,111.0,53.0,Retail,5.0,Platinum,West
+1039,24.0,66.0,Small Business,1.0,Platinum,East
+1040,26.0,26.0,Retail,2.0,Gold,East
+1041,91.0,75.0,Retail,3.0,Platinum,East
+1042,38.0,45.0,Retail,3.0,Blue,East
+1043,102.0,37.0,Retail,1.0,Gold,East
+1044,56.0,31.0,Retail,4.0,Blue,North East
+1045,25.0,75.0,Small Business,2.0,Platinum,West
+1046,102.0,69.0,Retail,2.0,Blue,East
+1047,67.0,29.0,Retail,4.0,Blue,Central
+1048,97.0,46.0,Retail,6.0,Gold,West
+1049,55.0,61.0,Retail,6.0,Blue,North East
+1050,16.0,53.0,Small Business,6.0,Gold,West
+1051,82.0,32.0,Small Business,3.0,Blue,South
+1052,15.0,41.0,Retail,1.0,Gold,West
+1053,80.0,41.0,Retail,2.0,Platinum,Central
+1054,51.0,37.0,Retail,3.0,Gold,South
+1055,95.0,73.0,Retail,2.0,Blue,South
+1056,105.0,32.0,Retail,2.0,Blue,West
+1057,49.0,60.0,Retail,1.0,Blue,North East
+1058,106.0,71.0,Retail,2.0,Blue,East
+1059,14.0,64.0,Retail,4.0,Gold,West
+1060,13.0,65.0,Retail,3.0,Blue,West
+1061,120.0,30.0,Retail,1.0,Blue,West
+1062,69.0,29.0,Retail,4.0,Blue,North
+1063,55.0,64.0,Retail,6.0,Platinum,East
+1064,19.0,62.0,Retail,3.0,Blue,North East
+1065,35.0,62.0,Retail,2.0,Blue,North East
+1066,83.0,44.0,Retail,2.0,Blue,Central
+1067,99.0,50.0,Small Business,3.0,Blue,North
+1068,110.0,22.0,Small Business,2.0,Platinum,East
+1069,49.0,37.0,Retail,6.0,Blue,North
+1070,55.0,50.0,Small Business,6.0,Gold,South
+1071,20.0,28.0,Small Business,3.0,Gold,North East
+1072,10.0,29.0,Retail,6.0,Gold,East
+1073,53.0,24.0,Retail,6.0,Gold,South
+1074,70.0,33.0,Retail,1.0,Gold,Central
+1075,13.0,75.0,Retail,3.0,Blue,Central
+1076,50.0,59.0,Small Business,4.0,Blue,West
+1077,77.0,73.0,Retail,3.0,Gold,Central
+1078,98.0,35.0,Retail,3.0,Gold,Central
+1079,113.0,54.0,Retail,3.0,Gold,West
+1080,41.0,70.0,Retail,5.0,Blue,North East
+1081,48.0,41.0,Retail,2.0,Blue,South
+1082,105.0,57.0,Retail,4.0,Blue,East
+1083,84.0,59.0,Retail,2.0,Blue,West
+1084,33.0,66.0,Small Business,6.0,Blue,Central
+1085,83.0,74.0,Retail,1.0,Blue,East
+1086,19.0,55.0,Retail,1.0,Gold,East
+1087,54.0,53.0,Small Business,1.0,Gold,North
+1088,37.0,68.0,Retail,3.0,Gold,West
+1089,120.0,58.0,Retail,4.0,Gold,North
+1090,5.0,41.0,Small Business,6.0,Blue,East
+1091,103.0,56.0,Retail,3.0,Blue,East
+1092,34.0,51.0,Retail,2.0,Gold,Central
+1093,5.0,34.0,Retail,3.0,Gold,East
+1094,80.0,49.0,Retail,1.0,Gold,North
+1095,82.0,55.0,Retail,3.0,Gold,West
+1096,18.0,70.0,Retail,5.0,Gold,South
+1097,5.0,53.0,Retail,1.0,Gold,East
+1098,14.0,30.0,Retail,5.0,Gold,South
+1099,50.0,75.0,Retail,2.0,Gold,North
+1100,16.0,53.0,Retail,5.0,Blue,North East
+1101,85.0,37.0,Retail,5.0,Blue,South
+1102,10.0,62.0,Small Business,5.0,Blue,West
+1103,95.0,42.0,Retail,5.0,Gold,Central
+1104,105.0,41.0,Retail,5.0,Gold,East
+1105,87.0,67.0,Retail,2.0,Blue,North East
+1106,114.0,68.0,Retail,1.0,Blue,East
+1107,113.0,50.0,Retail,3.0,Gold,North East
+1108,6.0,42.0,Small Business,4.0,Blue,East
+1109,42.0,68.0,Retail,4.0,Gold,North
+1110,92.0,31.0,Retail,5.0,Blue,North East
+1111,41.0,62.0,Retail,2.0,Blue,North East
+1112,89.0,53.0,Small Business,6.0,Blue,North East
+1113,93.0,68.0,Retail,3.0,Blue,North
+1114,120.0,44.0,Retail,2.0,Blue,North East
+1115,40.0,66.0,Small Business,5.0,Blue,East
+1116,42.0,22.0,Small Business,1.0,Blue,North East
+1117,3.0,62.0,Retail,3.0,Blue,North East
+1118,35.0,25.0,Small Business,5.0,Gold,South
+1119,34.0,56.0,Small Business,5.0,Blue,East
+1120,55.0,32.0,Retail,2.0,Blue,South
+1121,51.0,74.0,Small Business,1.0,Blue,South
+1122,103.0,63.0,Retail,1.0,Platinum,West
+1123,93.0,27.0,Retail,1.0,Gold,East
+1124,88.0,70.0,Retail,5.0,Platinum,West
+1125,1.0,35.0,Small Business,5.0,Platinum,Central
+1126,57.0,51.0,Retail,4.0,Blue,South
+1127,88.0,26.0,Retail,4.0,Gold,North
+1128,30.0,27.0,Retail,2.0,Blue,Central
+1129,51.0,35.0,Retail,2.0,Platinum,South
+1130,88.0,50.0,Small Business,1.0,Blue,South
+1131,96.0,51.0,Small Business,5.0,Blue,West
+1132,103.0,68.0,Retail,1.0,Platinum,South
+1133,52.0,30.0,Small Business,1.0,Gold,South
+1134,48.0,62.0,Small Business,5.0,Platinum,South
+1135,46.0,22.0,Retail,4.0,Blue,West
+1136,81.0,37.0,Retail,3.0,Blue,North East
+1137,51.0,31.0,Retail,2.0,Blue,North East
+1138,49.0,28.0,Retail,1.0,Blue,Central
+1139,21.0,53.0,Retail,3.0,Blue,North East
+1140,58.0,70.0,Retail,3.0,Blue,West
+1141,29.0,58.0,Small Business,4.0,Gold,East
+1142,63.0,68.0,Retail,1.0,Blue,Central
+1143,107.0,53.0,Small Business,2.0,Gold,South
+1144,94.0,24.0,Small Business,1.0,Platinum,Central
+1145,58.0,40.0,Retail,3.0,Gold,North East
+1146,118.0,66.0,Retail,2.0,Blue,East
+1147,118.0,24.0,Small Business,2.0,Blue,West
+1148,54.0,27.0,Small Business,4.0,Blue,Central
+1149,92.0,67.0,Retail,3.0,Gold,Central
+1150,42.0,25.0,Retail,2.0,Blue,South
+1151,106.0,73.0,Retail,5.0,Blue,North East
+1152,45.0,62.0,Small Business,3.0,Platinum,West
+1153,31.0,57.0,Small Business,3.0,Gold,North
+1154,17.0,50.0,Retail,3.0,Gold,North
+1155,102.0,26.0,Retail,1.0,Blue,Central
+1156,36.0,44.0,Retail,3.0,Platinum,East
+1157,98.0,65.0,Small Business,4.0,Blue,North
+1158,11.0,70.0,Small Business,1.0,Blue,West
+1159,61.0,46.0,Small Business,4.0,Platinum,West
+1160,52.0,67.0,Retail,1.0,Platinum,North
+1161,53.0,63.0,Retail,4.0,Blue,East
+1162,21.0,25.0,Retail,1.0,Blue,East
+1163,9.0,55.0,Retail,2.0,Blue,Central
+1164,42.0,55.0,Retail,3.0,Gold,West
+1165,57.0,51.0,Small Business,4.0,Gold,North
+1166,96.0,63.0,Retail,5.0,Blue,West
+1167,56.0,70.0,Retail,3.0,Blue,North East
+1168,30.0,51.0,Small Business,1.0,Gold,North
+1169,32.0,39.0,Retail,3.0,Gold,North East
+1170,74.0,75.0,Retail,5.0,Blue,North
+1171,53.0,74.0,Small Business,1.0,Gold,West
+1172,109.0,59.0,Retail,5.0,Platinum,East
+1173,53.0,56.0,Retail,3.0,Blue,Central
+1174,69.0,27.0,Retail,1.0,Gold,North East
+1175,8.0,43.0,Small Business,5.0,Gold,North East
+1176,24.0,32.0,Retail,1.0,Gold,North East
+1177,103.0,49.0,Retail,3.0,Platinum,Central
+1178,42.0,66.0,Retail,2.0,Gold,South
+1179,51.0,34.0,Retail,4.0,Gold,East
+1180,71.0,75.0,Small Business,1.0,Blue,Central
+1181,7.0,28.0,Retail,1.0,Gold,South
+1182,61.0,27.0,Retail,4.0,Blue,West
+1183,42.0,74.0,Retail,6.0,Blue,West
+1184,18.0,27.0,Retail,1.0,Blue,North East
+1185,51.0,61.0,Retail,3.0,Gold,North
+1186,54.0,63.0,Retail,5.0,Platinum,North
+1187,23.0,39.0,Retail,2.0,Gold,North
+1188,66.0,25.0,Retail,3.0,Gold,West
+1189,90.0,38.0,Small Business,6.0,Blue,West
+1190,33.0,25.0,Small Business,5.0,Gold,West
+1191,116.0,58.0,Retail,2.0,Platinum,South
+1192,74.0,69.0,Retail,5.0,Blue,South
+1193,93.0,75.0,Retail,5.0,Gold,East
+1194,9.0,65.0,Retail,4.0,Gold,North
+1195,93.0,63.0,Retail,3.0,Blue,Central
+1196,41.0,69.0,Small Business,6.0,Gold,North
+1197,86.0,63.0,Small Business,6.0,Blue,Central
+1198,97.0,57.0,Retail,6.0,Blue,East
+1199,31.0,75.0,Small Business,5.0,Blue,North East
+1200,32.0,39.0,Retail,3.0,Blue,Central
+1201,8.0,44.0,Retail,1.0,Blue,East
+1202,73.0,70.0,Retail,1.0,Platinum,Central
+1203,93.0,38.0,Retail,6.0,Blue,North
+1204,50.0,38.0,Small Business,3.0,Gold,South
+1205,20.0,30.0,Retail,1.0,Gold,East
+1206,38.0,36.0,Retail,2.0,Blue,North East
+1207,49.0,54.0,Retail,1.0,Blue,Central
+1208,110.0,69.0,Small Business,4.0,Platinum,East
+1209,15.0,29.0,Retail,4.0,Gold,South
+1210,42.0,58.0,Retail,3.0,Platinum,North East
+1211,77.0,63.0,Retail,5.0,Blue,West
+1212,29.0,70.0,Small Business,3.0,Gold,North
+1213,107.0,62.0,Retail,6.0,Gold,South
+1214,110.0,30.0,Retail,5.0,Platinum,North East
+1215,46.0,48.0,Small Business,1.0,Blue,North East
+1216,90.0,73.0,Retail,2.0,Platinum,North East
+1217,91.0,71.0,Retail,5.0,Blue,North
+1218,82.0,55.0,Retail,4.0,Gold,Central
+1219,23.0,74.0,Retail,5.0,Gold,North
+1220,6.0,58.0,Retail,3.0,Gold,Central
+1221,42.0,25.0,Retail,1.0,Blue,North East
+1222,16.0,71.0,Retail,5.0,Gold,East
+1223,36.0,31.0,Retail,5.0,Blue,South
+1224,77.0,42.0,Retail,4.0,Blue,Central
+1225,71.0,34.0,Small Business,3.0,Gold,North
+1226,26.0,60.0,Retail,1.0,Gold,West
+1227,3.0,23.0,Retail,5.0,Blue,South
+1228,28.0,56.0,Retail,4.0,Gold,East
+1229,55.0,68.0,Small Business,5.0,Blue,Central
+1230,94.0,64.0,Retail,2.0,Gold,North East
+1231,44.0,38.0,Retail,5.0,Gold,East
+1232,35.0,70.0,Retail,5.0,Gold,South
+1233,67.0,41.0,Retail,6.0,Gold,North East
+1234,9.0,58.0,Small Business,4.0,Gold,East
+1235,28.0,49.0,Small Business,5.0,Blue,South
+1236,5.0,25.0,Small Business,3.0,Gold,North East
+1237,64.0,22.0,Retail,5.0,Blue,North East
+1238,54.0,31.0,Retail,5.0,Blue,South
+1239,70.0,72.0,Retail,5.0,Gold,North
+1240,75.0,73.0,Small Business,6.0,Blue,North
+1241,48.0,44.0,Small Business,1.0,Blue,West
+1242,105.0,74.0,Small Business,5.0,Platinum,South
+1243,111.0,24.0,Retail,5.0,Blue,West
+1244,14.0,74.0,Small Business,4.0,Blue,Central
+1245,111.0,34.0,Retail,4.0,Blue,North
+1246,24.0,23.0,Small Business,5.0,Blue,North East
+1247,30.0,62.0,Retail,3.0,Gold,North
+1248,64.0,42.0,Retail,3.0,Gold,North
+1249,4.0,37.0,Retail,5.0,Gold,Central
+1250,44.0,63.0,Small Business,5.0,Blue,West
+1251,24.0,39.0,Retail,2.0,Gold,North East
+1252,58.0,62.0,Retail,5.0,Blue,West
+1253,98.0,32.0,Retail,2.0,Gold,East
+1254,111.0,26.0,Retail,1.0,Gold,Central
+1255,26.0,39.0,Small Business,6.0,Blue,Central
+1256,66.0,54.0,Retail,2.0,Gold,Central
+1257,57.0,34.0,Retail,2.0,Gold,East
+1258,50.0,29.0,Small Business,2.0,Blue,North East
+1259,76.0,62.0,Retail,3.0,Gold,South
+1260,119.0,48.0,Retail,1.0,Gold,East
+1261,49.0,45.0,Retail,1.0,Blue,South
+1262,8.0,34.0,Retail,3.0,Blue,South
+1263,110.0,22.0,Retail,2.0,Gold,South
+1264,112.0,24.0,Retail,2.0,Platinum,West
+1265,39.0,58.0,Retail,6.0,Gold,Central
+1266,61.0,26.0,Small Business,4.0,Gold,East
+1267,104.0,35.0,Small Business,1.0,Gold,North East
+1268,61.0,71.0,Small Business,1.0,Blue,East
+1269,58.0,40.0,Retail,5.0,Blue,East
+1270,111.0,62.0,Retail,2.0,Blue,North
+1271,100.0,40.0,Small Business,1.0,Platinum,North East
+1272,61.0,72.0,Small Business,4.0,Gold,North
+1273,20.0,66.0,Retail,6.0,Platinum,North
+1274,53.0,47.0,Retail,3.0,Blue,North East
+1275,82.0,58.0,Retail,5.0,Gold,West
+1276,33.0,44.0,Retail,3.0,Gold,North
+1277,65.0,72.0,Retail,1.0,Blue,East
+1278,80.0,41.0,Retail,5.0,Blue,West
+1279,11.0,67.0,Small Business,6.0,Gold,North
+1280,69.0,55.0,Retail,6.0,Gold,Central
+1281,89.0,56.0,Retail,1.0,Gold,Central
+1282,26.0,40.0,Retail,4.0,Blue,North
+1283,66.0,66.0,Small Business,4.0,Gold,West
+1284,86.0,62.0,Small Business,1.0,Blue,South
+1285,6.0,66.0,Retail,6.0,Blue,Central
+1286,78.0,65.0,Retail,1.0,Gold,East
+1287,32.0,30.0,Retail,2.0,Blue,South
+1288,48.0,69.0,Small Business,6.0,Platinum,West
+1289,78.0,67.0,Retail,4.0,Blue,East
+1290,1.0,35.0,Small Business,5.0,Blue,East
+1291,3.0,75.0,Retail,3.0,Blue,North East
+1292,54.0,50.0,Retail,5.0,Gold,West
+1293,114.0,39.0,Retail,1.0,Blue,East
+1294,1.0,34.0,Retail,5.0,Blue,South
+1295,95.0,41.0,Retail,1.0,Blue,West
+1296,9.0,24.0,Retail,2.0,Blue,North
+1297,59.0,59.0,Small Business,4.0,Gold,North East
+1298,52.0,60.0,Retail,3.0,Blue,North
+1299,57.0,58.0,Small Business,1.0,Blue,Central
+1300,10.0,51.0,Retail,5.0,Gold,East
+1301,91.0,41.0,Retail,2.0,Blue,Central
+1302,34.0,61.0,Small Business,6.0,Gold,East
+1303,93.0,69.0,Small Business,1.0,Blue,North
+1304,79.0,26.0,Retail,2.0,Gold,North East
+1305,67.0,42.0,Small Business,2.0,Blue,Central
+1306,38.0,75.0,Retail,4.0,Blue,North
+1307,79.0,68.0,Retail,3.0,Blue,North
+1308,120.0,75.0,Retail,1.0,Platinum,West
+1309,111.0,31.0,Retail,4.0,Blue,North East
+1310,110.0,47.0,Retail,6.0,Platinum,West
+1311,27.0,29.0,Retail,1.0,Platinum,North
+1312,71.0,68.0,Small Business,2.0,Blue,Central
+1313,48.0,50.0,Small Business,3.0,Blue,East
+1314,117.0,35.0,Small Business,5.0,Blue,West
+1315,115.0,26.0,Small Business,1.0,Platinum,East
+1316,105.0,61.0,Retail,2.0,Gold,North
+1317,20.0,65.0,Retail,2.0,Gold,North
+1318,39.0,69.0,Retail,4.0,Blue,West
+1319,86.0,74.0,Retail,1.0,Gold,West
+1320,90.0,65.0,Retail,4.0,Blue,South
+1321,43.0,64.0,Retail,3.0,Blue,North
+1322,17.0,65.0,Retail,2.0,Blue,Central
+1323,17.0,75.0,Retail,6.0,Blue,North
+1324,83.0,47.0,Retail,5.0,Platinum,South
+1325,55.0,62.0,Retail,5.0,Gold,East
+1326,59.0,66.0,Retail,6.0,Blue,Central
+1327,98.0,28.0,Small Business,2.0,Blue,North East
+1328,3.0,59.0,Retail,6.0,Gold,West
+1329,91.0,40.0,Small Business,2.0,Gold,North East
+1330,33.0,29.0,Small Business,2.0,Blue,West
+1331,112.0,31.0,Retail,4.0,Blue,North East
+1332,115.0,28.0,Retail,5.0,Gold,South
+1333,61.0,70.0,Retail,4.0,Platinum,North
+1334,38.0,63.0,Retail,4.0,Gold,Central
+1335,28.0,27.0,Retail,3.0,Blue,North East
+1336,22.0,55.0,Small Business,4.0,Gold,Central
+1337,120.0,57.0,Small Business,3.0,Blue,East
+1338,23.0,50.0,Retail,3.0,Platinum,East
+1339,54.0,54.0,Retail,4.0,Blue,North
+1340,58.0,70.0,Retail,4.0,Blue,East
+1341,82.0,50.0,Small Business,2.0,Blue,Central
+1342,102.0,57.0,Retail,1.0,Blue,North
+1343,67.0,52.0,Retail,2.0,Blue,East
+1344,91.0,43.0,Small Business,3.0,Gold,South
+1345,69.0,70.0,Retail,1.0,Gold,East
+1346,53.0,44.0,Retail,2.0,Gold,Central
+1347,19.0,65.0,Retail,6.0,Blue,North East
+1348,26.0,54.0,Retail,2.0,Blue,East
+1349,52.0,58.0,Retail,5.0,Blue,Central
+1350,6.0,63.0,Retail,1.0,Blue,Central
+1351,38.0,61.0,Retail,6.0,Blue,North East
+1352,56.0,52.0,Small Business,2.0,Platinum,Central
+1353,57.0,55.0,Retail,3.0,Platinum,West
+1354,98.0,49.0,Small Business,5.0,Blue,Central
+1355,117.0,40.0,Retail,2.0,Gold,South
+1356,88.0,61.0,Small Business,4.0,Gold,Central
+1357,10.0,69.0,Retail,5.0,Blue,Central
+1358,50.0,60.0,Small Business,1.0,Gold,West
+1359,88.0,63.0,Retail,1.0,Blue,North
+1360,72.0,66.0,Retail,5.0,Blue,West
+1361,55.0,41.0,Retail,2.0,Platinum,Central
+1362,53.0,25.0,Retail,6.0,Gold,South
+1363,49.0,40.0,Small Business,6.0,Blue,Central
+1364,70.0,62.0,Small Business,6.0,Blue,North East
+1365,22.0,66.0,Small Business,6.0,Platinum,West
+1366,63.0,49.0,Retail,5.0,Blue,North East
+1367,25.0,64.0,Small Business,3.0,Platinum,North East
+1368,82.0,26.0,Small Business,6.0,Platinum,East
+1369,104.0,56.0,Retail,3.0,Blue,North East
+1370,61.0,58.0,Retail,4.0,Gold,North East
+1371,47.0,49.0,Retail,1.0,Gold,North
+1372,113.0,60.0,Retail,6.0,Gold,North East
+1373,80.0,48.0,Retail,4.0,Blue,North
+1374,52.0,50.0,Small Business,6.0,Blue,East
+1375,4.0,54.0,Retail,3.0,Blue,North East
+1376,2.0,64.0,Retail,2.0,Gold,Central
+1377,27.0,35.0,Retail,4.0,Gold,South
+1378,29.0,38.0,Small Business,6.0,Gold,West
+1379,87.0,44.0,Small Business,4.0,Gold,South
+1380,61.0,32.0,Small Business,5.0,Blue,South
+1381,120.0,40.0,Retail,2.0,Blue,North East
+1382,65.0,40.0,Retail,5.0,Gold,North
+1383,109.0,38.0,Retail,5.0,Gold,North East
+1384,67.0,44.0,Retail,6.0,Gold,East
+1385,43.0,49.0,Retail,1.0,Blue,North
+1386,86.0,59.0,Retail,3.0,Blue,Central
+1387,54.0,38.0,Small Business,1.0,Platinum,North
+1388,33.0,67.0,Retail,3.0,Blue,South
+1389,57.0,47.0,Small Business,5.0,Blue,South
+1390,80.0,60.0,Retail,4.0,Gold,Central
+1391,46.0,28.0,Retail,5.0,Gold,East
+1392,85.0,31.0,Retail,5.0,Platinum,West
+1393,118.0,46.0,Retail,6.0,Platinum,North
+1394,50.0,41.0,Retail,6.0,Gold,Central
+1395,36.0,48.0,Retail,4.0,Blue,Central
+1396,49.0,30.0,Retail,6.0,Blue,South
+1397,101.0,47.0,Retail,1.0,Platinum,North East
+1398,22.0,59.0,Retail,5.0,Blue,East
+1399,117.0,61.0,Small Business,4.0,Platinum,Central
+1400,50.0,35.0,Small Business,6.0,Gold,South
+1401,101.0,40.0,Retail,4.0,Blue,North East
+1402,95.0,50.0,Retail,2.0,Gold,South
+1403,95.0,49.0,Retail,5.0,Gold,West
+1404,110.0,64.0,Retail,6.0,Blue,North
+1405,23.0,43.0,Retail,1.0,Blue,North
+1406,72.0,58.0,Retail,1.0,Gold,North
+1407,12.0,69.0,Retail,4.0,Blue,North East
+1408,36.0,38.0,Small Business,4.0,Blue,South
+1409,5.0,66.0,Retail,4.0,Gold,North East
+1410,82.0,39.0,Small Business,1.0,Gold,West
+1411,73.0,40.0,Retail,4.0,Gold,North
+1412,89.0,57.0,Retail,4.0,Platinum,East
+1413,22.0,55.0,Small Business,6.0,Platinum,East
+1414,40.0,51.0,Retail,3.0,Blue,South
+1415,82.0,34.0,Retail,3.0,Blue,West
+1416,100.0,27.0,Small Business,1.0,Gold,North East
+1417,107.0,71.0,Retail,4.0,Blue,North East
+1418,9.0,69.0,Retail,4.0,Gold,West
+1419,49.0,69.0,Retail,2.0,Gold,North East
+1420,2.0,49.0,Retail,5.0,Blue,North East
+1421,99.0,69.0,Retail,6.0,Gold,North
+1422,15.0,47.0,Retail,2.0,Gold,West
+1423,99.0,26.0,Small Business,4.0,Platinum,Central
+1424,19.0,32.0,Retail,5.0,Blue,North
+1425,2.0,36.0,Retail,1.0,Platinum,West
+1426,106.0,42.0,Retail,2.0,Blue,North East
+1427,53.0,72.0,Retail,3.0,Gold,South
+1428,51.0,39.0,Small Business,1.0,Platinum,North East
+1429,78.0,55.0,Retail,3.0,Blue,North East
+1430,33.0,36.0,Retail,1.0,Blue,West
+1431,83.0,56.0,Small Business,6.0,Gold,West
+1432,52.0,52.0,Small Business,4.0,Gold,West
+1433,33.0,30.0,Small Business,2.0,Blue,East
+1434,48.0,46.0,Retail,5.0,Gold,East
+1435,1.0,27.0,Retail,1.0,Gold,West
+1436,37.0,70.0,Retail,4.0,Blue,East
+1437,71.0,60.0,Retail,5.0,Gold,Central
+1438,17.0,72.0,Small Business,5.0,Blue,Central
+1439,15.0,69.0,Retail,2.0,Blue,East
+1440,79.0,33.0,Retail,4.0,Gold,West
+1441,52.0,60.0,Small Business,5.0,Blue,South
+1442,17.0,27.0,Small Business,5.0,Platinum,South
+1443,90.0,73.0,Retail,2.0,Gold,East
+1444,94.0,64.0,Small Business,6.0,Gold,North
+1445,5.0,58.0,Retail,2.0,Blue,North East
+1446,25.0,75.0,Retail,3.0,Blue,North
+1447,45.0,67.0,Retail,2.0,Gold,South
+1448,88.0,68.0,Small Business,1.0,Gold,South
+1449,9.0,27.0,Small Business,2.0,Gold,South
+1450,97.0,23.0,Retail,1.0,Blue,East
+1451,39.0,73.0,Retail,5.0,Blue,Central
+1452,16.0,35.0,Retail,4.0,Blue,North East
+1453,104.0,45.0,Retail,3.0,Gold,South
+1454,11.0,24.0,Small Business,4.0,Blue,South
+1455,16.0,55.0,Retail,4.0,Gold,East
+1456,114.0,66.0,Small Business,2.0,Blue,South
+1457,63.0,67.0,Retail,2.0,Blue,Central
+1458,56.0,53.0,Retail,6.0,Gold,South
+1459,83.0,57.0,Retail,1.0,Gold,East
+1460,76.0,49.0,Small Business,6.0,Platinum,West
+1461,74.0,46.0,Retail,6.0,Blue,East
+1462,3.0,51.0,Retail,2.0,Gold,West
+1463,67.0,72.0,Retail,2.0,Blue,Central
+1464,34.0,35.0,Small Business,2.0,Gold,West
+1465,97.0,47.0,Small Business,4.0,Gold,East
+1466,61.0,54.0,Small Business,2.0,Blue,North East
+1467,15.0,52.0,Retail,5.0,Gold,North East
+1468,107.0,23.0,Small Business,3.0,Blue,North East
+1469,35.0,37.0,Retail,6.0,Blue,North
+1470,33.0,56.0,Small Business,6.0,Blue,North East
+1471,113.0,59.0,Retail,3.0,Blue,North East
+1472,94.0,61.0,Retail,4.0,Platinum,Central
+1473,104.0,75.0,Small Business,1.0,Gold,Central
+1474,80.0,58.0,Small Business,1.0,Gold,East
+1475,110.0,53.0,Retail,4.0,Platinum,Central
+1476,14.0,39.0,Retail,3.0,Gold,West
+1477,72.0,42.0,Small Business,3.0,Blue,Central
+1478,36.0,66.0,Small Business,1.0,Blue,East
+1479,48.0,47.0,Small Business,6.0,Blue,Central
+1480,29.0,60.0,Retail,3.0,Platinum,Central
+1481,25.0,28.0,Retail,3.0,Platinum,North East
+1482,54.0,28.0,Small Business,3.0,Gold,South
+1483,111.0,33.0,Small Business,3.0,Blue,North East
+1484,77.0,32.0,Small Business,4.0,Blue,South
+1485,42.0,54.0,Retail,5.0,Platinum,North East
+1486,53.0,56.0,Retail,4.0,Blue,North
+1487,64.0,52.0,Retail,1.0,Gold,South
+1488,30.0,37.0,Small Business,6.0,Blue,West
+1489,63.0,53.0,Retail,2.0,Blue,West
+1490,84.0,28.0,Retail,1.0,Gold,Central
+1491,30.0,47.0,Small Business,1.0,Platinum,East
+1492,71.0,30.0,Small Business,5.0,Gold,North
+1493,86.0,26.0,Retail,3.0,Blue,West
+1494,63.0,30.0,Small Business,1.0,Blue,West
+1495,36.0,28.0,Retail,5.0,Platinum,West
+1496,67.0,47.0,Retail,2.0,Gold,East
+1497,96.0,51.0,Retail,6.0,Blue,North East
+1498,27.0,54.0,Retail,6.0,Gold,Central
+1499,69.0,45.0,Small Business,1.0,Blue,South
+1500,82.0,31.0,Small Business,5.0,Blue,North
+1501,39.0,23.0,Retail,4.0,Platinum,South
+1502,47.0,60.0,Small Business,2.0,Gold,North
+1503,107.0,75.0,Retail,3.0,Blue,Central
+1504,44.0,37.0,Small Business,3.0,Blue,West
+1505,72.0,33.0,Small Business,1.0,Platinum,East
+1506,18.0,38.0,Retail,5.0,Gold,West
+1507,112.0,33.0,Retail,2.0,Gold,Central
+1508,72.0,34.0,Retail,6.0,Blue,Central
+1509,92.0,48.0,Retail,5.0,Platinum,East
+1510,73.0,64.0,Small Business,4.0,Platinum,West
+1511,43.0,60.0,Retail,1.0,Gold,West
+1512,41.0,73.0,Retail,1.0,Blue,North East
+1513,85.0,41.0,Retail,1.0,Gold,Central
+1514,104.0,48.0,Small Business,3.0,Gold,South
+1515,16.0,42.0,Retail,5.0,Gold,North East
+1516,102.0,24.0,Small Business,1.0,Platinum,East
+1517,100.0,42.0,Retail,5.0,Gold,Central
+1518,14.0,36.0,Retail,1.0,Blue,North East
+1519,13.0,47.0,Retail,2.0,Blue,Central
+1520,84.0,30.0,Retail,4.0,Gold,North
+1521,102.0,62.0,Retail,5.0,Blue,South
+1522,48.0,67.0,Small Business,5.0,Blue,Central
+1523,77.0,73.0,Small Business,4.0,Gold,North
+1524,120.0,26.0,Retail,1.0,Blue,North
+1525,39.0,28.0,Retail,2.0,Gold,South
+1526,28.0,74.0,Retail,5.0,Blue,East
+1527,119.0,67.0,Retail,1.0,Blue,North
+1528,34.0,53.0,Small Business,5.0,Blue,North
+1529,57.0,39.0,Small Business,5.0,Gold,East
+1530,54.0,49.0,Small Business,5.0,Gold,West
+1531,63.0,50.0,Retail,2.0,Blue,West
+1532,33.0,67.0,Retail,2.0,Blue,Central
+1533,82.0,50.0,Retail,2.0,Blue,North East
+1534,84.0,23.0,Small Business,3.0,Gold,North
+1535,25.0,59.0,Retail,4.0,Platinum,Central
+1536,58.0,63.0,Small Business,1.0,Gold,North
+1537,7.0,38.0,Retail,4.0,Blue,East
+1538,27.0,28.0,Retail,2.0,Gold,East
+1539,119.0,29.0,Small Business,4.0,Blue,Central
+1540,61.0,67.0,Retail,2.0,Blue,South
+1541,75.0,46.0,Retail,6.0,Blue,North East
+1542,107.0,50.0,Retail,2.0,Blue,East
+1543,86.0,73.0,Small Business,6.0,Blue,Central
+1544,96.0,25.0,Retail,2.0,Gold,North East
+1545,86.0,33.0,Small Business,1.0,Blue,West
+1546,60.0,66.0,Retail,2.0,Gold,North
+1547,76.0,51.0,Retail,3.0,Platinum,Central
+1548,35.0,23.0,Retail,6.0,Gold,East
+1549,107.0,59.0,Retail,2.0,Blue,East
+1550,22.0,29.0,Small Business,5.0,Gold,East
+1551,107.0,64.0,Small Business,5.0,Blue,South
+1552,106.0,65.0,Small Business,3.0,Blue,South
+1553,18.0,66.0,Small Business,3.0,Blue,North East
+1554,86.0,47.0,Retail,6.0,Gold,South
+1555,119.0,36.0,Retail,5.0,Gold,East
+1556,69.0,69.0,Small Business,2.0,Gold,Central
+1557,41.0,52.0,Retail,6.0,Gold,South
+1558,106.0,56.0,Small Business,3.0,Gold,West
+1559,62.0,29.0,Retail,1.0,Gold,North East
+1560,15.0,55.0,Retail,5.0,Platinum,Central
+1561,30.0,53.0,Retail,6.0,Blue,North
+1562,82.0,37.0,Retail,3.0,Platinum,East
+1563,55.0,63.0,Retail,5.0,Platinum,North
+1564,27.0,29.0,Retail,2.0,Gold,West
+1565,96.0,60.0,Retail,6.0,Blue,South
+1566,15.0,73.0,Retail,3.0,Blue,North East
+1567,27.0,52.0,Retail,2.0,Gold,South
+1568,56.0,27.0,Retail,4.0,Blue,North East
+1569,5.0,51.0,Retail,2.0,Blue,East
+1570,47.0,50.0,Small Business,4.0,Gold,North East
+1571,110.0,51.0,Retail,5.0,Platinum,South
+1572,113.0,36.0,Retail,3.0,Gold,South
+1573,105.0,55.0,Retail,5.0,Gold,East
+1574,39.0,36.0,Retail,3.0,Blue,North East
+1575,8.0,52.0,Retail,6.0,Blue,Central
+1576,98.0,54.0,Retail,2.0,Gold,Central
+1577,45.0,56.0,Retail,5.0,Blue,West
+1578,90.0,65.0,Retail,4.0,Gold,Central
+1579,15.0,69.0,Retail,6.0,Platinum,West
+1580,81.0,63.0,Retail,2.0,Gold,Central
+1581,71.0,64.0,Retail,2.0,Gold,North East
+1582,111.0,68.0,Retail,6.0,Gold,North East
+1583,13.0,35.0,Retail,6.0,Gold,West
+1584,49.0,37.0,Small Business,5.0,Blue,East
+1585,119.0,50.0,Retail,3.0,Blue,West
+1586,47.0,47.0,Retail,3.0,Blue,Central
+1587,79.0,59.0,Retail,4.0,Gold,North East
+1588,20.0,22.0,Retail,5.0,Blue,Central
+1589,88.0,29.0,Retail,2.0,Gold,North East
+1590,34.0,62.0,Small Business,1.0,Gold,Central
+1591,69.0,66.0,Small Business,1.0,Blue,North East
+1592,106.0,38.0,Retail,3.0,Gold,Central
+1593,80.0,38.0,Retail,5.0,Blue,North East
+1594,57.0,52.0,Small Business,3.0,Blue,South
+1595,23.0,47.0,Retail,4.0,Blue,North East
+1596,41.0,31.0,Retail,3.0,Blue,East
+1597,102.0,49.0,Small Business,2.0,Platinum,Central
+1598,26.0,66.0,Retail,5.0,Platinum,East
+1599,79.0,61.0,Retail,5.0,Gold,East
+1600,59.0,66.0,Retail,6.0,Gold,Central
+1601,39.0,56.0,Retail,5.0,Gold,West
+1602,86.0,69.0,Retail,3.0,Platinum,Central
+1603,44.0,35.0,Retail,5.0,Gold,North
+1604,35.0,24.0,Retail,3.0,Blue,North East
+1605,64.0,28.0,Retail,6.0,Gold,East
+1606,91.0,75.0,Retail,4.0,Platinum,Central
+1607,104.0,56.0,Small Business,6.0,Blue,South
+1608,76.0,35.0,Retail,2.0,Blue,West
+1609,80.0,68.0,Small Business,1.0,Blue,West
+1610,95.0,38.0,Retail,1.0,Blue,North
+1611,33.0,54.0,Retail,4.0,Gold,East
+1612,31.0,35.0,Retail,6.0,Blue,West
+1613,59.0,27.0,Retail,4.0,Platinum,North East
+1614,76.0,36.0,Retail,5.0,Gold,North East
+1615,78.0,34.0,Small Business,3.0,Blue,East
+1616,19.0,51.0,Small Business,6.0,Gold,West
+1617,94.0,23.0,Small Business,6.0,Gold,South
+1618,44.0,34.0,Retail,2.0,Gold,North East
+1619,106.0,52.0,Retail,6.0,Blue,North East
+1620,87.0,43.0,Retail,1.0,Gold,North East
+1621,118.0,56.0,Retail,4.0,Blue,East
+1622,76.0,57.0,Small Business,3.0,Blue,East
+1623,64.0,74.0,Small Business,2.0,Blue,Central
+1624,23.0,67.0,Retail,6.0,Blue,Central
+1625,48.0,34.0,Small Business,4.0,Gold,South
+1626,104.0,59.0,Small Business,1.0,Blue,West
+1627,46.0,55.0,Retail,1.0,Gold,West
+1628,7.0,54.0,Small Business,1.0,Blue,East
+1629,30.0,65.0,Retail,2.0,Gold,East
+1630,72.0,29.0,Retail,1.0,Blue,South
+1631,76.0,42.0,Retail,2.0,Platinum,East
+1632,119.0,66.0,Retail,5.0,Platinum,South
+1633,113.0,70.0,Retail,6.0,Blue,South
+1634,64.0,24.0,Small Business,5.0,Gold,South
+1635,67.0,47.0,Retail,3.0,Blue,East
+1636,97.0,36.0,Retail,5.0,Gold,West
+1637,6.0,31.0,Retail,6.0,Gold,East
+1638,72.0,25.0,Retail,1.0,Blue,North
+1639,57.0,51.0,Small Business,6.0,Blue,Central
+1640,94.0,58.0,Retail,5.0,Blue,East
+1641,97.0,50.0,Small Business,3.0,Gold,West
+1642,79.0,41.0,Retail,3.0,Gold,West
+1643,79.0,63.0,Retail,3.0,Blue,West
+1644,83.0,57.0,Retail,1.0,Blue,East
+1645,70.0,71.0,Retail,2.0,Blue,Central
+1646,28.0,40.0,Small Business,2.0,Gold,North East
+1647,35.0,34.0,Retail,1.0,Blue,North East
+1648,90.0,46.0,Retail,4.0,Blue,East
+1649,75.0,49.0,Retail,3.0,Platinum,East
+1650,29.0,46.0,Small Business,2.0,Blue,North
+1651,106.0,66.0,Retail,2.0,Gold,East
+1652,118.0,24.0,Small Business,6.0,Blue,North East
+1653,76.0,50.0,Small Business,5.0,Blue,South
+1654,28.0,45.0,Retail,3.0,Gold,North East
+1655,113.0,33.0,Retail,5.0,Blue,Central
+1656,29.0,56.0,Retail,3.0,Blue,West
+1657,52.0,65.0,Retail,2.0,Platinum,West
+1658,104.0,51.0,Small Business,5.0,Platinum,Central
+1659,63.0,26.0,Retail,5.0,Gold,North
+1660,30.0,26.0,Small Business,4.0,Blue,North
+1661,10.0,44.0,Retail,4.0,Blue,South
+1662,44.0,58.0,Retail,1.0,Blue,Central
+1663,81.0,38.0,Small Business,4.0,Platinum,East
+1664,86.0,38.0,Retail,4.0,Gold,South
+1665,27.0,68.0,Retail,3.0,Gold,North
+1666,20.0,22.0,Retail,2.0,Platinum,East
+1667,85.0,26.0,Retail,6.0,Blue,East
+1668,20.0,30.0,Small Business,3.0,Gold,South
+1669,8.0,75.0,Retail,2.0,Blue,North
+1670,59.0,48.0,Small Business,5.0,Blue,Central
+1671,69.0,30.0,Retail,3.0,Platinum,Central
+1672,30.0,38.0,Retail,4.0,Platinum,South
+1673,26.0,74.0,Retail,4.0,Blue,East
+1674,29.0,59.0,Small Business,3.0,Blue,South
+1675,42.0,34.0,Retail,1.0,Gold,East
+1676,2.0,34.0,Retail,2.0,Blue,North
+1677,2.0,26.0,Retail,6.0,Gold,North East
+1678,45.0,63.0,Retail,4.0,Gold,Central
+1679,3.0,29.0,Small Business,3.0,Blue,North East
+1680,39.0,37.0,Retail,2.0,Blue,South
+1681,70.0,40.0,Small Business,5.0,Blue,North East
+1682,4.0,55.0,Retail,6.0,Platinum,West
+1683,75.0,54.0,Retail,5.0,Blue,South
+1684,75.0,65.0,Retail,4.0,Gold,South
+1685,69.0,38.0,Small Business,3.0,Blue,Central
+1686,76.0,42.0,Retail,6.0,Gold,Central
+1687,98.0,42.0,Retail,6.0,Blue,Central
+1688,9.0,24.0,Retail,3.0,Blue,South
+1689,21.0,61.0,Retail,6.0,Gold,West
+1690,39.0,50.0,Retail,5.0,Gold,North East
+1691,83.0,47.0,Small Business,6.0,Blue,North
+1692,105.0,75.0,Retail,1.0,Blue,South
+1693,111.0,31.0,Retail,1.0,Platinum,North
+1694,70.0,74.0,Retail,2.0,Blue,North
+1695,50.0,58.0,Retail,5.0,Blue,North East
+1696,50.0,33.0,Retail,1.0,Blue,South
+1697,8.0,58.0,Small Business,1.0,Blue,South
+1698,56.0,62.0,Retail,1.0,Gold,North
+1699,62.0,41.0,Small Business,2.0,Gold,North East
+1700,25.0,40.0,Retail,6.0,Gold,East
+1701,93.0,67.0,Small Business,5.0,Gold,Central
+1702,98.0,30.0,Retail,5.0,Blue,South
+1703,37.0,22.0,Small Business,2.0,Gold,West
+1704,110.0,57.0,Retail,4.0,Blue,North East
+1705,13.0,70.0,Retail,5.0,Blue,Central
+1706,110.0,49.0,Retail,4.0,Gold,West
+1707,93.0,29.0,Retail,6.0,Blue,South
+1708,27.0,51.0,Retail,4.0,Blue,South
+1709,79.0,35.0,Retail,2.0,Blue,West
+1710,38.0,66.0,Small Business,4.0,Gold,East
+1711,96.0,55.0,Small Business,6.0,Blue,North
+1712,20.0,40.0,Retail,5.0,Gold,South
+1713,30.0,55.0,Small Business,3.0,Gold,East
+1714,37.0,58.0,Retail,4.0,Gold,South
+1715,24.0,58.0,Retail,6.0,Blue,West
+1716,40.0,41.0,Retail,5.0,Gold,South
+1717,73.0,52.0,Retail,4.0,Blue,South
+1718,76.0,24.0,Retail,2.0,Platinum,North
+1719,67.0,43.0,Retail,6.0,Gold,West
+1720,23.0,42.0,Retail,6.0,Blue,South
+1721,25.0,50.0,Retail,1.0,Gold,West
+1722,111.0,73.0,Small Business,1.0,Gold,North East
+1723,31.0,73.0,Retail,1.0,Blue,North East
+1724,13.0,48.0,Small Business,3.0,Blue,Central
+1725,55.0,56.0,Retail,1.0,Gold,Central
+1726,1.0,27.0,Retail,6.0,Gold,North East
+1727,42.0,48.0,Retail,6.0,Platinum,Central
+1728,103.0,59.0,Small Business,2.0,Blue,South
+1729,33.0,58.0,Retail,5.0,Gold,West
+1730,85.0,74.0,Retail,1.0,Gold,North East
+1731,59.0,47.0,Small Business,5.0,Gold,Central
+1732,43.0,71.0,Small Business,3.0,Blue,East
+1733,80.0,74.0,Retail,1.0,Blue,South
+1734,72.0,52.0,Retail,3.0,Gold,North
+1735,39.0,26.0,Retail,5.0,Blue,East
+1736,27.0,42.0,Retail,6.0,Blue,Central
+1737,111.0,63.0,Small Business,1.0,Gold,West
+1738,21.0,53.0,Retail,6.0,Blue,North
+1739,116.0,72.0,Retail,2.0,Blue,North East
+1740,57.0,66.0,Retail,3.0,Blue,East
+1741,120.0,25.0,Retail,1.0,Gold,East
+1742,43.0,68.0,Retail,6.0,Platinum,Central
+1743,68.0,41.0,Retail,5.0,Blue,East
+1744,74.0,66.0,Retail,4.0,Blue,West
+1745,41.0,49.0,Retail,5.0,Gold,North East
+1746,27.0,46.0,Retail,6.0,Blue,West
+1747,63.0,25.0,Retail,1.0,Platinum,West
+1748,80.0,28.0,Retail,2.0,Gold,East
+1749,32.0,54.0,Retail,1.0,Blue,North East
+1750,93.0,52.0,Small Business,3.0,Blue,North
+1751,77.0,51.0,Small Business,3.0,Blue,South
+1752,20.0,30.0,Small Business,1.0,Gold,North East
+1753,113.0,49.0,Retail,4.0,Blue,East
+1754,6.0,25.0,Retail,1.0,Platinum,South
+1755,79.0,29.0,Retail,5.0,Gold,East
+1756,53.0,48.0,Small Business,5.0,Platinum,South
+1757,79.0,55.0,Retail,5.0,Platinum,West
+1758,93.0,57.0,Retail,1.0,Blue,South
+1759,83.0,75.0,Retail,6.0,Gold,East
+1760,79.0,68.0,Retail,4.0,Gold,North East
+1761,101.0,42.0,Small Business,6.0,Blue,North
+1762,85.0,64.0,Retail,5.0,Blue,Central
+1763,98.0,27.0,Retail,4.0,Blue,North
+1764,49.0,68.0,Small Business,1.0,Blue,East
+1765,25.0,42.0,Retail,5.0,Platinum,Central
+1766,29.0,63.0,Retail,3.0,Blue,North East
+1767,74.0,74.0,Retail,6.0,Gold,South
+1768,64.0,59.0,Retail,5.0,Platinum,North
+1769,10.0,71.0,Retail,1.0,Blue,Central
+1770,25.0,22.0,Retail,6.0,Gold,North East
+1771,117.0,31.0,Small Business,1.0,Blue,West
+1772,88.0,55.0,Retail,2.0,Blue,North
+1773,91.0,51.0,Retail,2.0,Blue,West
+1774,24.0,28.0,Retail,6.0,Blue,East
+1775,8.0,60.0,Small Business,1.0,Blue,East
+1776,35.0,25.0,Retail,6.0,Blue,North
+1777,103.0,75.0,Small Business,2.0,Blue,South
+1778,61.0,30.0,Retail,4.0,Blue,North East
+1779,95.0,46.0,Retail,1.0,Gold,North
+1780,59.0,66.0,Small Business,3.0,Blue,North East
+1781,59.0,49.0,Retail,4.0,Gold,West
+1782,73.0,62.0,Retail,5.0,Platinum,West
+1783,116.0,59.0,Small Business,6.0,Gold,North East
+1784,53.0,73.0,Retail,5.0,Gold,South
+1785,72.0,47.0,Retail,4.0,Gold,North East
+1786,111.0,74.0,Small Business,2.0,Gold,South
+1787,45.0,49.0,Small Business,2.0,Platinum,East
+1788,101.0,70.0,Small Business,6.0,Platinum,East
+1789,65.0,61.0,Small Business,4.0,Blue,West
+1790,106.0,29.0,Retail,6.0,Gold,South
+1791,57.0,56.0,Small Business,3.0,Gold,Central
+1792,76.0,69.0,Retail,3.0,Blue,North
+1793,39.0,28.0,Retail,5.0,Gold,West
+1794,77.0,67.0,Retail,5.0,Gold,West
+1795,40.0,27.0,Small Business,2.0,Gold,West
+1796,74.0,69.0,Retail,4.0,Blue,West
+1797,95.0,64.0,Small Business,2.0,Blue,Central
+1798,53.0,30.0,Retail,5.0,Blue,North East
+1799,52.0,61.0,Retail,1.0,Gold,South
+1800,39.0,28.0,Retail,5.0,Platinum,East
+1801,88.0,52.0,Retail,6.0,Platinum,West
+1802,72.0,71.0,Retail,1.0,Blue,East
+1803,62.0,33.0,Retail,4.0,Blue,North East
+1804,4.0,31.0,Retail,1.0,Gold,West
+1805,14.0,44.0,Retail,3.0,Gold,West
+1806,1.0,41.0,Retail,3.0,Gold,South
+1807,103.0,24.0,Retail,4.0,Blue,East
+1808,103.0,46.0,Retail,6.0,Blue,West
+1809,9.0,36.0,Retail,3.0,Gold,East
+1810,6.0,28.0,Retail,3.0,Gold,Central
+1811,94.0,36.0,Retail,1.0,Blue,North
+1812,63.0,23.0,Retail,6.0,Platinum,North
+1813,38.0,71.0,Retail,2.0,Gold,East
+1814,74.0,75.0,Retail,3.0,Platinum,South
+1815,29.0,41.0,Retail,1.0,Blue,Central
+1816,24.0,69.0,Retail,2.0,Blue,North East
+1817,45.0,46.0,Retail,4.0,Platinum,East
+1818,108.0,71.0,Retail,6.0,Platinum,West
+1819,93.0,31.0,Small Business,2.0,Platinum,South
+1820,23.0,37.0,Retail,4.0,Gold,West
+1821,68.0,61.0,Retail,6.0,Blue,Central
+1822,107.0,33.0,Small Business,3.0,Blue,Central
+1823,115.0,66.0,Retail,2.0,Blue,North East
+1824,92.0,44.0,Retail,1.0,Platinum,West
+1825,16.0,43.0,Small Business,6.0,Blue,East
+1826,29.0,46.0,Retail,1.0,Gold,North
+1827,27.0,65.0,Small Business,2.0,Platinum,Central
+1828,19.0,22.0,Retail,1.0,Platinum,Central
+1829,22.0,62.0,Retail,5.0,Platinum,West
+1830,38.0,64.0,Retail,3.0,Gold,North East
+1831,67.0,66.0,Retail,5.0,Blue,South
+1832,48.0,75.0,Small Business,4.0,Platinum,North
+1833,51.0,64.0,Retail,1.0,Blue,West
+1834,30.0,50.0,Retail,2.0,Blue,North
+1835,19.0,47.0,Retail,1.0,Platinum,North
+1836,120.0,42.0,Small Business,1.0,Gold,Central
+1837,72.0,66.0,Retail,3.0,Gold,East
+1838,28.0,43.0,Small Business,2.0,Blue,West
+1839,98.0,52.0,Retail,1.0,Gold,Central
+1840,100.0,27.0,Small Business,3.0,Platinum,East
+1841,117.0,39.0,Retail,3.0,Gold,West
+1842,20.0,36.0,Retail,6.0,Blue,West
+1843,77.0,45.0,Retail,4.0,Gold,West
+1844,118.0,49.0,Retail,3.0,Platinum,Central
+1845,97.0,60.0,Retail,3.0,Platinum,East
+1846,28.0,45.0,Retail,1.0,Blue,West
+1847,108.0,30.0,Small Business,3.0,Gold,West
+1848,51.0,51.0,Small Business,4.0,Blue,North
+1849,59.0,24.0,Small Business,1.0,Blue,South
+1850,68.0,67.0,Small Business,6.0,Blue,North
+1851,93.0,63.0,Small Business,4.0,Gold,South
+1852,15.0,34.0,Retail,5.0,Gold,East
+1853,65.0,36.0,Retail,2.0,Blue,North East
+1854,99.0,23.0,Small Business,6.0,Blue,North East
+1855,66.0,41.0,Small Business,3.0,Blue,Central
+1856,33.0,24.0,Small Business,6.0,Blue,West
+1857,7.0,72.0,Small Business,4.0,Gold,South
+1858,66.0,29.0,Retail,4.0,Blue,East
+1859,85.0,57.0,Small Business,2.0,Blue,Central
+1860,66.0,52.0,Small Business,6.0,Platinum,North East
+1861,118.0,34.0,Retail,2.0,Blue,North East
+1862,73.0,65.0,Small Business,1.0,Platinum,East
+1863,61.0,27.0,Retail,3.0,Gold,East
+1864,7.0,69.0,Small Business,6.0,Gold,West
+1865,68.0,61.0,Retail,6.0,Gold,North
+1866,21.0,56.0,Small Business,6.0,Blue,North
+1867,87.0,69.0,Retail,4.0,Gold,North
+1868,20.0,43.0,Retail,6.0,Gold,Central
+1869,109.0,37.0,Retail,3.0,Blue,South
+1870,37.0,30.0,Retail,3.0,Gold,Central
+1871,53.0,71.0,Retail,2.0,Gold,East
+1872,18.0,43.0,Small Business,5.0,Platinum,Central
+1873,26.0,66.0,Retail,2.0,Gold,North
+1874,111.0,39.0,Small Business,2.0,Blue,South
+1875,35.0,73.0,Retail,3.0,Platinum,South
+1876,62.0,68.0,Retail,4.0,Platinum,East
+1877,118.0,38.0,Small Business,2.0,Gold,West
+1878,75.0,48.0,Small Business,3.0,Blue,South
+1879,5.0,64.0,Retail,2.0,Gold,Central
+1880,43.0,34.0,Small Business,4.0,Gold,North East
+1881,47.0,23.0,Small Business,5.0,Blue,North
+1882,34.0,37.0,Retail,5.0,Platinum,North
+1883,29.0,53.0,Small Business,1.0,Gold,North East
+1884,61.0,29.0,Small Business,3.0,Platinum,West
+1885,46.0,40.0,Retail,4.0,Gold,North East
+1886,36.0,71.0,Retail,2.0,Blue,Central
+1887,50.0,26.0,Retail,1.0,Platinum,Central
+1888,42.0,24.0,Retail,2.0,Gold,North
+1889,28.0,44.0,Small Business,5.0,Gold,West
+1890,55.0,22.0,Small Business,4.0,Blue,East
+1891,114.0,23.0,Retail,1.0,Blue,North East
+1892,61.0,31.0,Retail,5.0,Gold,North
+1893,72.0,27.0,Retail,2.0,Blue,North
+1894,119.0,65.0,Retail,5.0,Platinum,West
+1895,74.0,28.0,Small Business,4.0,Platinum,North East
+1896,27.0,50.0,Retail,1.0,Gold,North East
+1897,48.0,60.0,Retail,3.0,Blue,West
+1898,59.0,55.0,Retail,5.0,Gold,East
+1899,57.0,57.0,Retail,3.0,Blue,South
+1900,18.0,41.0,Small Business,5.0,Gold,North East
+1901,13.0,69.0,Small Business,5.0,Blue,South
+1902,42.0,25.0,Retail,1.0,Platinum,North
+1903,110.0,27.0,Retail,6.0,Blue,West
+1904,87.0,68.0,Retail,3.0,Blue,East
+1905,102.0,25.0,Retail,5.0,Platinum,East
+1906,21.0,32.0,Retail,3.0,Gold,North East
+1907,50.0,31.0,Retail,4.0,Platinum,South
+1908,70.0,23.0,Small Business,3.0,Platinum,North East
+1909,53.0,28.0,Retail,6.0,Gold,South
+1910,51.0,52.0,Retail,1.0,Blue,South
+1911,44.0,57.0,Retail,6.0,Gold,North
+1912,7.0,26.0,Small Business,2.0,Gold,Central
+1913,103.0,72.0,Retail,6.0,Platinum,North East
+1914,112.0,27.0,Retail,1.0,Blue,North East
+1915,10.0,59.0,Small Business,1.0,Gold,South
+1916,50.0,65.0,Retail,1.0,Blue,Central
+1917,63.0,50.0,Small Business,4.0,Gold,North
+1918,95.0,48.0,Retail,2.0,Gold,West
+1919,119.0,27.0,Small Business,4.0,Platinum,Central
+1920,50.0,35.0,Small Business,5.0,Blue,North
+1921,90.0,67.0,Retail,1.0,Blue,North
+1922,113.0,40.0,Retail,4.0,Blue,North
+1923,100.0,23.0,Retail,5.0,Blue,Central
+1924,35.0,61.0,Small Business,3.0,Blue,West
+1925,99.0,58.0,Small Business,6.0,Platinum,North
+1926,50.0,25.0,Small Business,4.0,Blue,West
+1927,3.0,24.0,Small Business,1.0,Blue,Central
+1928,92.0,28.0,Retail,4.0,Gold,South
+1929,101.0,24.0,Retail,3.0,Blue,West
+1930,42.0,55.0,Retail,1.0,Blue,South
+1931,55.0,29.0,Small Business,6.0,Platinum,South
+1932,44.0,54.0,Small Business,2.0,Blue,East
+1933,15.0,31.0,Retail,1.0,Blue,East
+1934,120.0,74.0,Retail,2.0,Gold,East
+1935,3.0,61.0,Retail,5.0,Blue,South
+1936,67.0,42.0,Small Business,4.0,Blue,East
+1937,2.0,45.0,Small Business,5.0,Blue,West
+1938,83.0,25.0,Retail,3.0,Blue,East
+1939,109.0,24.0,Retail,1.0,Platinum,West
+1940,78.0,51.0,Retail,3.0,Blue,North
+1941,73.0,23.0,Retail,2.0,Blue,North
+1942,100.0,56.0,Small Business,4.0,Blue,North East
+1943,117.0,42.0,Retail,2.0,Platinum,East
+1944,104.0,29.0,Retail,6.0,Blue,West
+1945,28.0,50.0,Retail,3.0,Platinum,Central
+1946,68.0,51.0,Retail,2.0,Blue,North
+1947,99.0,62.0,Small Business,6.0,Platinum,North East
+1948,36.0,32.0,Retail,4.0,Blue,East
+1949,82.0,51.0,Retail,2.0,Blue,North East
+1950,3.0,67.0,Retail,3.0,Gold,East
+1951,106.0,36.0,Small Business,2.0,Blue,East
+1952,74.0,67.0,Small Business,5.0,Gold,West
+1953,90.0,61.0,Retail,4.0,Gold,South
+1954,100.0,45.0,Retail,5.0,Gold,West
+1955,27.0,69.0,Retail,6.0,Blue,North East
+1956,55.0,74.0,Retail,5.0,Gold,West
+1957,104.0,34.0,Retail,3.0,Blue,North
+1958,20.0,74.0,Small Business,2.0,Platinum,Central
+1959,99.0,22.0,Small Business,4.0,Gold,North
+1960,35.0,28.0,Retail,3.0,Gold,North
+1961,70.0,24.0,Retail,2.0,Platinum,South
+1962,62.0,41.0,Retail,5.0,Gold,South
+1963,83.0,72.0,Retail,6.0,Gold,North
+1964,101.0,54.0,Retail,3.0,Blue,North
+1965,42.0,55.0,Retail,5.0,Gold,Central
+1966,21.0,26.0,Small Business,6.0,Blue,East
+1967,51.0,49.0,Retail,1.0,Blue,South
+1968,74.0,42.0,Small Business,3.0,Gold,East
+1969,91.0,47.0,Retail,5.0,Blue,Central
+1970,91.0,36.0,Retail,3.0,Gold,Central
+1971,41.0,32.0,Retail,5.0,Blue,South
+1972,113.0,73.0,Small Business,3.0,Blue,South
+1973,10.0,52.0,Retail,1.0,Platinum,North East
+1974,15.0,44.0,Retail,3.0,Blue,West
+1975,3.0,25.0,Small Business,3.0,Gold,North East
+1976,112.0,63.0,Small Business,6.0,Gold,South
+1977,22.0,47.0,Retail,1.0,Platinum,North
+1978,73.0,42.0,Retail,1.0,Blue,East
+1979,98.0,58.0,Retail,1.0,Gold,South
+1980,93.0,29.0,Small Business,4.0,Blue,Central
+1981,114.0,50.0,Retail,6.0,Blue,Central
+1982,7.0,68.0,Retail,4.0,Blue,North
+1983,49.0,47.0,Retail,5.0,Blue,West
+1984,61.0,22.0,Retail,6.0,Gold,East
+1985,84.0,34.0,Small Business,4.0,Blue,West
+1986,75.0,25.0,Small Business,4.0,Blue,East
+1987,68.0,49.0,Retail,2.0,Gold,West
+1988,37.0,41.0,Small Business,6.0,Blue,Central
+1989,13.0,29.0,Retail,5.0,Blue,South
+1990,52.0,59.0,Retail,6.0,Blue,South
+1991,32.0,31.0,Retail,6.0,Blue,Central
+1992,67.0,40.0,Small Business,3.0,Gold,North East
+1993,96.0,75.0,Retail,1.0,Platinum,East
+1994,67.0,25.0,Retail,6.0,Gold,North East
+1995,70.0,35.0,Small Business,3.0,Gold,South
+1996,6.0,39.0,Retail,6.0,Blue,Central
+1997,78.0,49.0,Small Business,5.0,Platinum,North East
+1998,53.0,35.0,Retail,2.0,Blue,South
+1999,15.0,74.0,Retail,3.0,Blue,North
+2000,26.0,22.0,Retail,4.0,Blue,West
