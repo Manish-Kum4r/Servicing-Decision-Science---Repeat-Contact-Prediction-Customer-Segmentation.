@@ -1,8 +1,5 @@
 #  Servicing Decision Science — Repeat-Contact Prediction & Customer Segmentation
 
-**Portfolio project prepared for:** *Analyst – Data Science, Global Servicing
-Decision Science (GSDS), American Express*
-
 > **One-liner:** An end-to-end decision-science project on servicing
 > interactions — **SQL** builds the model-ready dataset, **Python** runs EDA
 > and trains foundational **ML models** (classification, regression,
